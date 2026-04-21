@@ -1,0 +1,37 @@
+{
+  "poster_url": "https://i.ibb.co/XrWL1ZnG/damas-neon.jpg",
+  "frases_romanticas": [
+    {
+      "id": 1,
+      "template": "🌹 *Das ondas do amor, chegou uma dedicatória especial...* 🌹\n\n🎙️ _\"Esta noite, alguém com o coração cheio de carinho pediu com muito amor esta música linda de *{artista}* para iluminar o seu dia...\"_\n\n💌 *{musica}* — *{artista}*\n💐 De: *{de}* 💕 Para: *{para}* com muito carinho e amor verdadeiro\n\n🌙 _\"Que cada nota dessa música chegue até você como um abraço quentinho, como um sussurro de quem te quer bem... Você é especial!\"_ 🌙\n\n🎶 ✨ *Rádio Damas da Night* — onde o amor tem trilha sonora ✨ 🎶"
+    },
+    {
+      "id": 2,
+      "template": "🌺 *Atenção, atenção! Uma dedicatória chegou pra você...* 🌺\n\n🎙️ _\"Ouvinte muito especial, alguém pensou em você com tanto carinho que foi até a nossa rádio pedir essa música inesquecível de *{artista}*...\"_\n\n💿 *{musica}* — *{artista}*\n💌 Com todo o amor do(a) *{de}* 🌸 pra você, *{para}*\n\n🌟 _\"Essa música foi escolhida a dedo, com o coração, porque você merece só o melhor! Sinta cada palavra, cada melodia... ela foi feita pra você.\"_ 🌟\n\n🎶 💖 *Rádio Damas da Night* — a sua rádio do coração 💖 🎶"
+    },
+    {
+      "id": 3,
+      "template": "🕊️ *Chegou uma mensagem musical com cheirinho de amor...* 🕊️\n\n🎙️ _\"Nossa rádio recebeu um pedido muito especial... alguém que te admira muito escolheu esta pérola de *{artista}* especialmente pra você, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 Uma dedicatória do(a) *{de}* — com saudade, carinho e muito amor ❤️\n\n🌙 _\"Fecha os olhos, deixa a música entrar no coração... essa canção carrega um pedacinho de quem pensa em você todos os dias. Aproveite!\"_ 🌙\n\n🎶 🌹 *Rádio Damas da Night* — porque o amor merece uma boa música 🌹 🎶"
+    },
+    {
+      "id": 4,
+      "template": "💫 *Pare tudo! Uma dedicatória especial está chegando...* 💫\n\n🎙️ _\"Esta é aquela hora mágica da nossa rádio, onde o amor fala mais alto que qualquer coisa... E hoje, *{de}* quis te surpreender, *{para}*, com a voz incrível de *{artista}*...\"_\n\n🎶 *{musica}* — *{artista}*\n🌷 De: *{de}* ➡️ Para: *{para}* — com um coração cheio de você 💕\n\n✨ _\"Dizem que a música é a linguagem da alma... e hoje, essa alma toda te manda essa canção linda pra dizer o que as palavras às vezes não conseguem. Que seja especial para você!\"_ ✨\n\n🎶 💜 *Rádio Damas da Night* — o amor no ar, toda noite 💜 🎶"
+    },
+    {
+      "id": 5,
+      "template": "🌸 *Uma carta de amor em forma de música chegou até nós...* 🌸\n\n🎙️ _\"Querida *{para}*, alguém que guarda você no coração não quis deixar essa noite passar sem te dar um presente musical... *{de}* pediu com tanto amor que a gente não podia negar!\"_\n\n🎵 *{musica}* — *{artista}*\n💌 Dedicada com carinho, saudade e ternura de *{de}* para *{para}* 🌺\n\n🌙 _\"Que essa música seja como um abraço que atravessa a distância... como um sorriso que aquece mesmo nos dias frios. Você é lembrada, você é querida, você importa!\"_ 🌙\n\n🎶 🎀 *Rádio Damas da Night* — música, amor e emoção 🎀 🎶"
+    },
+    {
+      "id": 6,
+      "template": "❤️‍🔥 *Alguém está pensando em você nesse exato momento...* ❤️‍🔥\n\n🎙️ _\"Na nossa rádio, chegou mais um pedido cheio de amor... *{de}* nos procurou com o coração nas mãos pedindo essa joia musical de *{artista}* pra você, *{para}*. Como resistir a tanto carinho?\"_\n\n🎵 *{musica}* — *{artista}*\n💘 De *{de}* pra *{para}* — com toda a força desse sentimento lindo 🌹\n\n✨ _\"Que cada batida dessa música ecoe como um 'eu te quero bem' que vem do fundo do coração... Deixa a música te abraçar por quem está longe mas nunca te esquece!\"_ ✨\n\n🎶 🌙 *Rádio Damas da Night* — onde cada música conta uma história de amor 🌙 🎶"
+    }
+  ],
+  "mensagens": {
+    "aviso_inicial": "🎙️🌹 *Rádio Damas da Night* 🌹🎙️\n\n{destinatario} você recebeu uma dedicatória especial! 💌\n\n{remetente} pediu uma música linda pra você com muito carinho...\n\n🎵 _Buscando: \"{termo}\"_ 🎵\n\n⏳ Aguarda um instante, a sua música está a caminho! 💐",
+    "musica_encontrada": "🎶 *Música encontrada!* 🎶\n\n🎵 *{titulo}*\n🎤 *{artista}*\n⏱️ Duração: {duracao}\n\n💌 *Dedicatória especial: Rádio Damas da Night*\n💕 De {remetente} para {destinatario}\n\n⬇️ _Baixando para você..._ 🧅",
+    "na_fila": "🎙️ Sua dedicatória está na fila! Posição: {posicao} 🌹",
+    "uso_comando": "Uso: *#damas musica [nome da música] @pessoa*\nExemplo: _#damas musica Sonho de Ícaro @monica_",
+    "erro_nao_encontrado": "❌ Ops! Não consegui encontrar \"{termo}\".\n🔍 Tente com: [nome da música - artista]\nExemplo: _#damas musica Sonho de Ícaro - Bião_",
+    "erro_timeout": "❌ Ops! Não consegui encontrar \"{termo}\".\n⏱️ Tempo esgotado. Tente novamente em instantes."
+  }
+}
