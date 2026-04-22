@@ -2,10 +2,11 @@
   "poster_url": "https://i.ibb.co/xtCCppwQ/sala-vip.png",
 
   "posters": {
-    "aviso_inicial": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🎧📻 Preparando sua dedicatória, {destinatario}...\n💖 Pedido feito por {remetente}\n🔎 Buscando: {termo}\n\n💡 *𝙳𝙸𝙲𝙰 𝙳𝙴 𝙾𝚄𝚁𝙾:* 🎯\nPara resultados mais precisos, use:\n📝 *#play [música - cantor/banda]*\n💖 Exemplo: _#play The Cranberries - Ode to My Family_\n🎪 Assim eu encontro o hit certinho pra você! 🎯🔥",
+    "aviso_inicial": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🎧📻 Preparando sua dedicatória, {destinatario}...\n💖 Pedido feito por {remetente}\n🔎 Buscando: {termo}\n\n💡 *COMO FAZER SUA DEDICATÓRIA:* 🎙️\n\n📝 Digite assim:\n *#play* The Cranberries Ode to My Family *@pessoa* \n\n📌 Troque pelo seu pedido:\n👉 *#play* música + cantor + *@pessoa* \n\n💖 Exemplo real:\n *#play* The Cranberries Ode to My Family *@Elis* \n\n🎧 Pronto! Sua música vai tocar aqui na rádio! 💃🔥",
 
     "musica_encontrada": "ıllıllı⭐🌟💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌🌟⭐ıllıllı\n\n♫♪♩·.¸¸.·♩♪♫ ෴❤️෴ ෴❤️෴\n\n🎵 Música: {titulo} 🎶\n🎤 Artista: {artista} 🎧\n⏱️ Duração: {duracao} ⏰\n\n💌 De: {remetente} 💕 Para: {destinatario}\n\n📻🎙️ #RadioDamasDaNight #SintoniaPerfeita #PlaylistDaNoite\n\n♫♪♩·.¸¸.·♩♪♫ ෴❤️෴ ෴❤️෴\n\n⬇️ 𝙱𝙰𝙸𝚇𝙰𝙽𝙳𝙾 𝚂𝙴𝚄 𝙷𝙸𝚃... 🎧\n💃 𝙿𝚁𝙴𝙿𝙰𝚁𝙰 𝙿𝚁𝙰 𝙳𝙰𝙽𝙲̧𝙰𝚁! 🕺\n🔥 𝙰 𝙵𝙴𝚂𝚃𝙰 𝚅𝙰𝙸 𝙲𝙾𝙼𝙴𝙲̧𝙰𝚁! 📡🔥"
-  },
+  }
+},
 
   "mensagens": {
     "aviso_inicial": "🎧 Preparando sua dedicatória, {destinatario}...\n💖 Pedido feito por {remetente}\n🔎 Buscando: {termo}",
@@ -24,45 +25,214 @@
   },
 
   "frases_romanticas": [
-    {
+   {
       "id": 1,
-      "template": "🌹 *Das ondas do amor, chegou uma dedicatória especial...* 🌹\n\n🎙️ _\"Esta noite, alguém com o coração cheio de carinho pediu com muito amor esta música linda de *{artista}* para iluminar o seu dia...\"_\n\n💌 *{musica}* — *{artista}*\n💐 De: *{de}* 💕 Para: *{para}*\n\n🌙 _\"Que cada nota dessa música chegue até você como um abraço quentinho... Você é especial!\"_ 🌙\n\n🎶 ✨ *Rádio Damas da Night* ✨ 🎶"
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Das ondas do amor, chegou uma dedicatória especial...* 🌹\n\n🎙️ _\"Esta noite, alguém com o coração cheio de carinho pediu com muito amor esta música linda de *{artista}* para iluminar o seu dia...\"_\n\n💌 *{musica}* — *{artista}*\n💐 De: *{de}* 💕 Para: *{para}*\n\n🌙 _\"Que cada nota dessa música chegue até você como um abraço quentinho... Você é especial!\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
     },
     {
       "id": 2,
-      "template": "🌺 *Atenção! Uma dedicatória chegou pra você...* 🌺\n\n🎙️ _\"Alguém pensou em você com carinho e pediu essa música de *{artista}*...\"_\n\n💿 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n🌟 _\"Essa música foi escolhida com o coração. Aproveite cada segundo.\"_ 🌟\n\n🎶 💖 *Rádio Damas da Night* 💖 🎶"
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌺 *Atenção! Uma dedicatória chegou pra você...* 🌺\n\n🎙️ _\"Alguém pensou em você com carinho e pediu essa música de *{artista}*...\"_\n\n💿 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n🌟 _\"Essa música foi escolhida com o coração. Aproveite cada segundo.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
     },
     {
       "id": 3,
-      "template": "🕊️ *Mensagem musical com amor...* 🕊️\n\n🎙️ _\"*{de}* escolheu essa música de *{artista}* pra você, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}*\n\n🌙 _\"Fecha os olhos e sente a música. Tem sentimento aqui.\"_ 🌙\n\n🎶 🌹 *Rádio Damas da Night* 🌹 🎶"
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🕊️ *Mensagem musical com amor...* 🕊️\n\n🎙️ _\"*{de}* escolheu essa música de *{artista}* pra você, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}*\n\n🌙 _\"Fecha os olhos e sente a música. Tem sentimento aqui.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
     },
     {
       "id": 4,
-      "template": "💫 *Dedicatória especial chegando...* 💫\n\n🎙️ _\"Hoje *{de}* quis te surpreender, *{para}*, com essa música de *{artista}*...\"_\n\n🎶 *{musica}* — *{artista}*\n🌷 De: *{de}* ➡️ Para: *{para}*\n\n✨ _\"A música fala o que o coração sente.\"_ ✨\n\n🎶 💜 *Rádio Damas da Night* 💜 🎶"
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Dedicatória especial chegando...* 💫\n\n🎙️ _\"Hoje *{de}* quis te surpreender, *{para}*, com essa música de *{artista}*...\"_\n\n🎶 *{musica}* — *{artista}*\n🌷 De: *{de}* ➡️ Para: *{para}*\n\n✨ _\"A música fala o que o coração sente.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
     },
     {
       "id": 5,
-      "template": "🌸 *Carta de amor em forma de música* 🌸\n\n🎙️ _\"*{de}* pediu essa música de *{artista}* pra você, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n🌙 _\"Que essa música te abrace.\"_ 🌙\n\n🎶 🎀 *Rádio Damas da Night* 🎀 🎶"
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Carta de amor em forma de música* 🌸\n\n🎙️ _\"*{de}* pediu essa música de *{artista}* pra você, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n🌙 _\"Que essa música te abrace.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
     },
     {
-      "id": 6,
-      "template": "❤️ *Alguém pensou em você agora...* ❤️\n\n🎙️ _\"*{de}* mandou essa música de *{artista}* pra você, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💘 De: *{de}*\n\n✨ _\"Sinta o carinho em cada nota.\"_ ✨\n\n🎶 🌙 *Rádio Damas da Night* 🌙 🎶"
-    },
+"id": 6,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma música, um sentimento...* 💖\n\n🎙️ _\"Diretamente do coração de *{de}* para você, *{para}*, essa de *{artista}*...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n✨ _\"Sinta cada batida dessa canção.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 7,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Recado musical pra você...* 🌹\n\n🎙️ _\"Essa vai de *{de}* com muito carinho...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 Para: *{para}*\n\n🌙 _\"Tem saudade e amor nessa música.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 8,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Momento especial no ar...* 💫\n\n🎙️ _\"Uma escolha linda de *{de}* para tocar seu coração, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n✨ _\"Deixe a música falar por você.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 9,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Toque de amor no ar...* 🌸\n\n🎙️ _\"Essa é pra você, *{para}*, com carinho de *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n💖 _\"Cada verso carrega um sentimento.\"_ 💖\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 10,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Mensagem do coração...* 🌟\n\n🎙️ _\"Direto de *{de}* para iluminar seu momento, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Sinta essa vibe especial.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 11,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💌 *Uma dedicatória cheia de emoção...* 💌\n\n🎙️ _\"Essa canção de *{artista}* foi escolhida por *{de}*...\"_\n\n🎵 *{musica}*\n💖 Para: *{para}*\n\n✨ _\"Aproveite cada segundo.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
     {
-      "id": 7,
-      "template": "📻 *OUÇA COM O CORAÇÃO* 📻\n\n🎙️ _\"*{de}* envia essa música de *{artista}* pra *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}*\n\n🌹 _\"Você é especial.\"_ 🌹\n\n🎧 *Rádio Damas da Night* 🎧"
-    },
+"id": 12,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Uma melodia cheia de carinho...* 🌹\n\n🎙️ _\"*{de}* escolheu essa de *{artista}* especialmente pra você, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n✨ _\"Que essa música te envolva.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 13,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Recado com música...* 💖\n\n🎙️ _\"Essa vai direto do coração de *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 Para: *{para}*\n\n🌙 _\"Sinta a energia dessa canção.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 14,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Uma surpresa sonora...* 🌸\n\n🎙️ _\"*{para}*, essa é pra você... enviada por *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n💫 _\"Deixe a música te levar.\"_ 💫\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 15,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n✨ *Som que toca o coração...* ✨\n\n🎙️ _\"Uma escolha especial de *{de}* pra você, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n🌟 _\"Cada nota tem um significado.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 16,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💌 *Mensagem em forma de música...* 💌\n\n🎙️ _\"Essa de *{artista}* foi enviada com carinho por *{de}*...\"_\n\n🎶 *{musica}*\n💖 Para: *{para}*\n\n🌙 _\"A música fala tudo.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+
+{
+"id": 17,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌺 *Uma canção dedicada a você...* 🌺\n\n🎙️ _\"Diretamente de *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 Para: *{para}*\n\n✨ _\"Sinta esse momento.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 18,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Especial pra você...* 💫\n\n🎙️ _\"Uma escolha linda de *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Deixe o som te envolver.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 19,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Mensagem musical no ar...* 🌟\n\n🎙️ _\"De *{de}* com carinho...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 Para: *{para}*\n\n✨ _\"A música conecta corações.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 20,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma vibe especial...* 💖\n\n🎙️ _\"Essa foi enviada por *{de}* pra você...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Curta cada segundo.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+
+{
+"id": 21,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Direto do coração...* 🌹\n\n🎙️ _\"Uma escolha especial de *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 Para: *{para}*\n\n✨ _\"Essa é pra você.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 22,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Som com sentimento...* 🌸\n\n🎙️ _\"*{de}* dedicou essa a você...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Sinta o carinho.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 23,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Uma música pra marcar...* 💫\n\n🎙️ _\"De *{de}* para você, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Aproveite esse momento.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 24,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Clima de romance no ar...* 🌟\n\n🎙️ _\"Essa vai com carinho de *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 Para: *{para}*\n\n🌙 _\"Deixe a música te tocar.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+
+{
+"id": 25,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Dedicatória apaixonada...* 💖\n\n🎙️ _\"*{de}* enviou essa com amor...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Sinta cada verso.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 26,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Um carinho em forma de música...* 🌹\n\n🎙️ _\"Essa foi dedicada por *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 Para: *{para}*\n\n🌙 _\"Com amor.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+
+{
+"id": 27,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Especialmente pra você...* 🌟\n\n🎙️ _\"Essa escolha veio de *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Curta esse momento.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+
+{
+"id": 28,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Som que encanta...* 💫\n\n🎙️ _\"De *{de}* com muito carinho...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Sinta a vibe.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+
+{
+"id": 29,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Mensagem musical especial...* 🌸\n\n🎙️ _\"Uma escolha de *{de}* pra você...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Com carinho.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+
+{
+"id": 30,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Pra tocar seu coração...* 💖\n\n🎙️ _\"Essa foi enviada por *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Sinta essa energia.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
     {
-      "id": 8,
-      "template": "🌟 *CANÇÃO COM AMOR* 🌟\n\n🎙️ _\"*{de}* pediu essa música de *{artista}* pra você...\"_\n\n💫 *{musica}* — *{artista}*\n💕 Para: *{para}*\n\n✨ _\"Essa música tem sentimento.\"_ ✨\n\n🎶 *Rádio Damas da Night* 🎶"
-    },
-    {
-      "id": 9,
-      "template": "🌙 *AMOR QUE NÃO DORME* 🌙\n\n🎙️ _\"*{de}* dedicou essa música de *{artista}* pra você...\"_\n\n🎵 *{musica}* — *{artista}*\n🌌 Para: *{para}*\n\n🕯️ _\"Saudade também é amor.\"_ 🕯️\n\n🎙️ *Rádio Damas da Night* 🎙️"
-    },
-    {
-      "id": 10,
-      "template": "💌 *CARTA MUSICAL* 💌\n\n🎙️ _\"*{de}* mandou essa música de *{artista}* pra você...\"_\n\n🎼 *{musica}* — *{artista}*\n💗 Para: *{para}*\n\n🌸 _\"Sinta o carinho.\"_ 🌸\n\n🎶 *Rádio Damas da Night* 🎶"
-    }
+"id": 31,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Um som cheio de sentimento...* 🌹\n\n🎙️ _\"Diretamente de *{de}* para você, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n✨ _\"Sinta o carinho em cada nota.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 32,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Dedicatória no ar...* 💖\n\n🎙️ _\"Essa vai com muito amor de *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 Para: *{para}*\n\n🌙 _\"A música fala por si.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 33,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Uma escolha especial...* 🌸\n\n🎙️ _\"*{de}* lembrou de você, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n💫 _\"Sinta esse momento único.\"_ 💫\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 34,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Um momento só seu...* 💫\n\n🎙️ _\"Essa de *{artista}* foi enviada por *{de}*...\"_\n\n🎵 *{musica}*\n\n✨ _\"Aproveite cada batida.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 35,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Clima especial no ar...* 🌟\n\n🎙️ _\"Essa vai pra você com carinho de *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Deixe a música te envolver.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 36,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma música pra você sentir...* 💖\n\n🎙️ _\"Escolhida por *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Cada nota tem emoção.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 37,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Mensagem com carinho...* 🌹\n\n🎙️ _\"Essa vai de *{de}* para você...\"_\n\n🎶 *{musica}* — *{artista}*\n\n💫 _\"Sinta o amor na música.\"_ 💫\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 38,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Uma vibe especial...* 🌸\n\n🎙️ _\"Diretamente do coração de *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n🌙 _\"Curta esse momento.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 39,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Som que conecta...* 💫\n\n🎙️ _\"Essa foi enviada por *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n✨ _\"Deixe a música falar.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 40,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Especialmente pra você...* 🌟\n\n🎙️ _\"Uma escolha linda de *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n🌙 _\"Sinta cada momento.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+
+{
+"id": 41,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma dedicatória cheia de emoção...* 💖\n\n🎙️ _\"De *{de}* com muito carinho...\"_\n\n🎶 *{musica}* — *{artista}*\n\n✨ _\"Essa é especial.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 42,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Um recado especial...* 🌹\n\n🎙️ _\"Essa música foi enviada por *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n🌙 _\"Sinta o carinho.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 43,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Momento musical...* 🌸\n\n🎙️ _\"Uma escolha especial de *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n💫 _\"Curta esse som.\"_ 💫\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 44,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Uma música pra marcar...* 💫\n\n🎙️ _\"Diretamente de *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Sinta a vibe.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 45,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Clima perfeito...* 🌟\n\n🎙️ _\"Essa vai com carinho de *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Aproveite.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+
+{
+"id": 46,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma vibe romântica...* 💖\n\n🎙️ _\"De *{de}* para você...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Sinta o amor.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 47,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Mensagem especial...* 🌹\n\n🎙️ _\"Uma escolha linda de *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Com carinho.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 48,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Um momento só seu...* 🌸\n\n🎙️ _\"Essa foi enviada por *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Curta esse som.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 49,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Som especial no ar...* 💫\n\n🎙️ _\"Diretamente de *{de}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Sinta a vibe.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+},
+{
+"id": 50,
+"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Pra você aproveitar...* 🌟\n\n🎙️ _\"Essa foi escolhida por *{de}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Curta cada segundo.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+}
   ]
 }
