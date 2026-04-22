@@ -1,7 +1,15 @@
 {
   "poster_url": "https://i.ibb.co/XrWL1ZnG/damas-neon.jpg",
-  "frases_romanticas": [
-    {
+  "mensagens": {
+    "aviso_inicial": "🎙️ Boa noite, {destinatario}! {remetente} pediu uma música especial pra você... aguarda! 🎶",
+    "musica_encontrada": "🎵 *{titulo}* — {artista}\n⏱️ Duração: {duracao}\n\n💌 De: {remetente} 💕 Para: {destinatario}",
+    "uso_comando": "📻 Use: *#play [música] @pessoa*\nExemplo: #play Evidências @joao",
+    "na_fila": "⏳ Você está na posição *{posicao}* da fila! Aguarda um pouquinho 🎶",
+    "erro_nao_encontrado": "❌ Não encontrei a música *\"{termo}\"*. Tente com outro nome!",
+    "erro_timeout": "⏱️ A busca demorou demais para *\"{termo}\"*. Tente novamente!"
+  },
+  
+ {
       "id": 1,
       "template": "🌹 *Das ondas do amor, chegou uma dedicatória especial...* 🌹\n\n🎙️ _\"Esta noite, alguém com o coração cheio de carinho pediu com muito amor esta música linda de *{artista}* para iluminar o seu dia...\"_\n\n💌 *{musica}* — *{artista}*\n💐 De: *{de}* 💕 Para: *{para}* com muito carinho e amor verdadeiro\n\n🌙 _\"Que cada nota dessa música chegue até você como um abraço quentinho, como um sussurro de quem te quer bem... Você é especial!\"_ 🌙\n\n🎶 ✨ *Rádio Damas da Night* — onde o amor tem trilha sonora ✨ 🎶"
     },
@@ -1378,35 +1386,31 @@
   "template": "🎧💖 *FONE MATINAL DO AMOR* 🎧💖\n\n🎧 _\"Boa noite / bom dia, *{para}*! *{de}*} te manda um fone matinal. Coloca ao acordar. A música de *{artista}* vai dar energia. Igual o amor dele(a).\"_\n\n🎶💗 *{musica}* — *{artista}*\n💕 De: *{de}* (que te dá energia de manhã) 💕 Pra: *{para}*\n\n🎧 _\"Fone matinal é pra começar bem. Começa comigo. Começa com amor. Começa com essa música. O dia vai ser bom. Prometo.\"_ 🎧\n\n🎤💘 *Rádio Damas da Night* — fone matinal do amor 🎧🎤"
 },
 {
-  "id": 345,
-  "template": "📡💕 *RADAR MATINAL DO AMOR* 📡💕\n\n🎙️ _\"Atenção, *{para}*! O radar matinal do amor detectou você. *{de}* já está pensando em você. Essa música de *{artista}* é o rastreamento.\"_\n\n💿💘 *{musica}* — *{artista}*\n💝 De: *{de}* (que te rastreia de manhã) 💝 Pra: *{para}*\n\n📡 _\"Radar matinal te encontra. Meu coração te encontra todo dia. É a primeira coisa que faço ao acordar. Pensar em você. Sempre.\"_ 📡\n\n📻💖 *Rádio Damas da Night* — radar matinal do amor 📡📻"
-},
-{
-  "id": 346,
-  "template": "🎚️💘 *EQ MATINAL DO AMOR* 🎚️💘\n\n🎧 _\"Preste atenção, *{para}*! *{de}*} equalizou o coração pela manhã. Grave: saudade do dia anterior. Médio: expectativa pro hoje. Agudo: amor pra sempre. Essa música de *{artista}* é o resultado.\"_\n\n🎵💕 *{musica}* — *{artista}*\n💗 De: *{de}* (que equaliza o amor todo dia) 💗 Pra: *{para}*\n\n🎚️ _\"EQ matinal ajusta o som do dia. Meu amor se ajusta em você todo dia. É a rotina mais gostosa. Acordar e te amar. Todo dia. Sempre.\"_ 🎚️\n\n🎤💖 *Rádio Damas da Night* — EQ matinal do amor 🎚️🎤"
-},
-{
-  "id": 347,
-  "template": "🔊💕 *POTÊNCIA MATINAL DO AMOR* 🔊💕\n\n🎙️ _\"Bom dia, *{para}*! *{de}*} ligou a potência matinal do amor. É a energia pro seu dia. Essa música de *{artista}* é o combustível. Use bem.\"_\n\n🎶💖 *{musica}* — *{artista}*\n💖 De: *{de}* (que te dá energia de manhã) 💖 Pra: *{para}*\n\n🔊 _\"Bom dia, meu amor. Que seu dia seja tão lindo quanto você. Que essa música te acompanhe. E que você nunca esqueça: eu te amo.\"_ 🔊\n\n📻💘 *Rádio Damas da Night* — potência matinal do amor 🔊📻"
-},
-{
-  "id": 348,
-  "template": "🎙️💗 *LOCUÇÃO MATINAL DO AMOR* 🎙️💗\n\n🎧 _\"Atenção, *{para}*! Locução matinal do coração de *{de}*. Bom dia! Hoje o dia vai ser especial. Porque você existe. Essa música de *{artista}* é o presente.\"_\n\n💿💘 *{musica}* — *{artista}*\n💕 De: *{de}* (que te dá bom dia com amor) 💕 Pra: *{para}*\n\n🎙️ _\"Bom dia, meu amor. Acorda, o dia tá lindo. O sol tá brilhando. Meu coração tá batendo. Tudo isso por sua causa. Tenha um ótimo dia.\"_ 🎙️\n\n📻💖 *Rádio Damas da Night* — locução matinal do amor 🎙️📻"
-},
-{
-  "id": 349,
-  "template": "🎧💘 *FONE DE AMOR INFINITO* 🎧💘\n\n🎙️ _\"Preste atenção, *{para}*! *{de}*} te manda um fone de amor infinito. A bateria nunca acaba. Igual o sentimento. A música de *{artista}* toca pra sempre.\"_\n\n🎵💗 *{musica}* — *{artista}*\n💝 De: *{de}* (que te ama infinitamente) 💝 Pra: *{para}*\n\n🎧 _\"Bateria infinita é impossível. Meu amor por você também. Mas os dois existem. Pelo menos no meu coração. E nessa música. Que nunca acaba.\"_ 🎧\n\n🎤💕 *Rádio Damas da Night* — fone de amor infinito 🎧🎤"
-},
-{
-  "id": 350,
-  "template": "📻💖 *RÁDIO DAMAS DA NIGHT — EDIÇÃO INFINITA* 📻💖\n\n🎧 _\"Boa noite, *{para}*! Esta é a edição infinita da Rádio Damas da Night. *{de}* pediu essa música de *{artista}* pra tocar pra sempre. E vai tocar. No coração dele(a). No seu. Pra sempre.\"_\n\n🎶💘 *{musica}* — *{artista}*\n💗 De: *{de}* (que te ama infinitamente) 💗 Pra: *{para}*\n\n📻 _\"O infinito é muito tempo. Mas eu quero cada segundo ao seu lado. Essa música é a trilha. Toca, toca, toca... e nunca vai parar. Porque o amor não para. Nunca.\"_ 📻\n\n🎙️💕✨ *Rádio Damas da Night* — amor infinito, música infinita, você infinito(a) ✨💕🎙️"
-},
-  "mensagens": {
-    "aviso_inicial": "🎙️🌹 *Rádio Damas da Night* 🌹🎙️\n\n{destinatario} você recebeu uma dedicatória especial! 💌\n\n{remetente} pediu uma música linda pra você com muito carinho...\n\n🎵 _Buscando: \"{termo}\"_ 🎵\n\n⏳ Aguarda um instante, a sua música está a caminho! 💐",
-    "musica_encontrada": "🎶 *Música encontrada!* 🎶\n\n🎵 *{titulo}*\n🎤 *{artista}*\n⏱️ Duração: {duracao}\n\n💌 *Dedicatória especial: Rádio Damas da Night*\n💕 De {remetente} para {destinatario}\n\n⬇️ _Baixando para você..._ 🧅",
-    "na_fila": "🎙️ Sua dedicatória está na fila! Posição: {posicao} 🌹",
-    "uso_comando": "Uso: *#play [nome da música] @pessoa*\nExemplo: _#play Sonho de Ícaro @monica_",
-    "erro_nao_encontrado": "❌ Ops! Não consegui encontrar \"{termo}\".\n🔍 Tente com: [nome da música - artista]\nExemplo: _#play Sonho de Ícaro - Biafra_",
-    "erro_timeout": "❌ Ops! Não consegui encontrar \"{termo}\".\n⏱️ Tempo esgotado. Tente novamente em instantes."
-  }
+  {
+  "templates": [
+    {
+      "id": 345,
+      "template": "📡💕 *RADAR MATINAL DO AMOR* 📡💕\n\n🎙️ _\"Atenção, *{para}*! O radar matinal do amor detectou você. *{de}* já está pensando em você. Essa música de *{artista}* é o rastreamento.\"_\n\n💿💘 *{musica}* — *{artista}*\n💝 De: *{de}* (que te rastreia de manhã) 💝 Pra: *{para}*\n\n📡 _\"Radar matinal te encontra. Meu coração te encontra todo dia. É a primeira coisa que faço ao acordar. Pensar em você. Sempre.\"_ 📡\n\n📻💖 *Rádio Damas da Night* — radar matinal do amor 📡📻"
+    },
+    {
+      "id": 346,
+      "template": "🎚️💘 *EQ MATINAL DO AMOR* 🎚️💘\n\n🎧 _\"Preste atenção, *{para}*! *{de}* equalizou o coração pela manhã. Grave: saudade do dia anterior. Médio: expectativa pro hoje. Agudo: amor pra sempre. Essa música de *{artista}* é o resultado.\"_\n\n🎵💕 *{musica}* — *{artista}*\n💗 De: *{de}* (que equaliza o amor todo dia) 💗 Pra: *{para}*\n\n🎚️ _\"EQ matinal ajusta o som do dia. Meu amor se ajusta em você todo dia. É a rotina mais gostosa. Acordar e te amar. Todo dia. Sempre.\"_ 🎚️\n\n🎤💖 *Rádio Damas da Night* — EQ matinal do amor 🎚️🎤"
+    },
+    {
+      "id": 347,
+      "template": "🔊💕 *POTÊNCIA MATINAL DO AMOR* 🔊💕\n\n🎙️ _\"Bom dia, *{para}*! *{de}* ligou a potência matinal do amor. É a energia pro seu dia. Essa música de *{artista}* é o combustível. Use bem.\"_\n\n🎶💖 *{musica}* — *{artista}*\n💖 De: *{de}* (que te dá energia de manhã) 💖 Pra: *{para}*\n\n🔊 _\"Bom dia, meu amor. Que seu dia seja tão lindo quanto você. Que essa música te acompanhe. E que você nunca esqueça: eu te amo.\"_ 🔊\n\n📻💘 *Rádio Damas da Night* — potência matinal do amor 🔊📻"
+    },
+    {
+      "id": 348,
+      "template": "🎙️💗 *LOCUÇÃO MATINAL DO AMOR* 🎙️💗\n\n🎧 _\"Atenção, *{para}*! Locução matinal do coração de *{de}*. Bom dia! Hoje o dia vai ser especial. Porque você existe. Essa música de *{artista}* é o presente.\"_\n\n💿💘 *{musica}* — *{artista}*\n💕 De: *{de}* (que te dá bom dia com amor) 💕 Pra: *{para}*\n\n🎙️ _\"Bom dia, meu amor. Acorda, o dia tá lindo. O sol tá brilhando. Meu coração tá batendo. Tudo isso por sua causa. Tenha um ótimo dia.\"_ 🎙️\n\n📻💖 *Rádio Damas da Night* — locução matinal do amor 🎙️📻"
+    },
+    {
+      "id": 349,
+      "template": "🎧💘 *FONE DE AMOR INFINITO* 🎧💘\n\n🎙️ _\"Preste atenção, *{para}*! *{de}* te manda um fone de amor infinito. A bateria nunca acaba. Igual o sentimento. A música de *{artista}* toca pra sempre.\"_\n\n🎵💗 *{musica}* — *{artista}*\n💝 De: *{de}* (que te ama infinitamente) 💝 Pra: *{para}*\n\n🎧 _\"Bateria infinita é impossível. Meu amor por você também. Mas os dois existem. Pelo menos no meu coração. E nessa música. Que nunca acaba.\"_ 🎧\n\n🎤💕 *Rádio Damas da Night* — fone de amor infinito 🎧🎤"
+    },
+    {
+      "id": 350,
+      "template": "📻💖 *RÁDIO DAMAS DA NIGHT — EDIÇÃO INFINITA* 📻💖\n\n🎧 _\"Boa noite, *{para}*! Esta é a edição infinita da Rádio Damas da Night. *{de}* pediu essa música de *{artista}* pra tocar pra sempre. E vai tocar. No coração dele(a). No seu. Pra sempre.\"_\n\n🎶💘 *{musica}* — *{artista}*\n💗 De: *{de}* (que te ama infinitamente) 💗 Pra: *{para}*\n\n📻 _\"O infinito é muito tempo. Mas eu quero cada segundo ao seu lado. Essa música é a trilha. Toca, toca, toca... e nunca vai parar. Porque o amor não para. Nunca.\"_ 📻\n\n🎙️💕✨ *Rádio Damas da Night* — amor infinito, música infinita, você infinito(a) ✨💕🎙️"
+    }
+  ]
 }
