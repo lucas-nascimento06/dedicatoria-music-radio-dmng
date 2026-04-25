@@ -24,78 +24,486 @@
   },
 
   "frases_romanticas": [
-  {
-  "id": 1,
-  "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Das ondas do amor, chegou uma dedicatória especial...* 🌹\n\n🎙️ _\"Em meio a tantos pensamentos, alguém lembrou de você e escolheu essa música de *{artista}*...\"_\n\n💌 *{musica}* — *{artista}*\n💐 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Se as palavras não alcançam,\na música fala por mim...\nporque em cada verso,\nexiste um pedaço do que eu sinto por você.\"_\n\n🌙 _\"Que essa canção te encontre, te abrace... e te faça lembrar que você é especial.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-  },
-  {
-  "id": 2,
-  "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌺 *Atenção... uma dedicatória cheia de sentimento chegou pra você...* 🌺\n\n🎙️ _\"Entre tantos pensamentos, alguém parou por um instante... só pra lembrar de você e escolher essa música de *{artista}*...\"_\n\n💿 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Não foi por acaso...\nfoi saudade,\nfoi carinho,\nfoi o coração chamando baixinho por você.\n\nSe essa música tocar diferente aí dentro,\npode ter certeza...\né porque tem alguém aqui sentindo muito por você.\"_\n\n🌙 _\"Agora fecha os olhos, escuta com calma... porque algumas músicas não são só ouvidas, são sentidas.\"_ 🌙\n\n✨ _\"E talvez, nesse exato momento, essa canção seja o jeito mais bonito de dizer: eu lembrei de você.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-  },
-  {
-  "id": 3,
-      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🕊️ *Mensagem musical com amor...* 🕊️\n\n🎙️ _\"*{de}* escolheu essa música de *{artista}* pra você, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}*\n\n🌙 _\"Fecha os olhos e sente a música. Tem sentimento aqui.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-  },
-  {
-  "id": 4,
-  "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Dedicatória especial chegando...* 💫\n\n🎙️ _\"Hoje *{de}* parou por um instante, pensou em você, *{para}*, e decidiu transformar esse sentimento em música...\"_\n\n🎶 *{musica}* — *{artista}*\n🌷 De: *{de}* ➡️ Para: *{para}*\n\n📜 _\"Nem sempre dá pra explicar o que se sente...\nmas dá pra sentir em silêncio,\nem cada nota,\nem cada verso que toca mais fundo.\n\nSe essa música mexer com você,\ntalvez seja porque alguém aqui sente mais do que consegue dizer.\"_\n\n🌙 _\"A música fala o que o coração guarda.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-  },
-  {
-  "id": 5,
-  "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Carta de amor em forma de música* 🌸\n\n🎙️ _\"*{de}* não encontrou palavras suficientes... então escolheu essa de *{artista}* pra falar por ele(a), *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Se cada nota fosse um abraço,\nvocê estaria envolvido agora...\n\nSe cada verso fosse um pensamento,\nseria só você na mente.\n\nPorque quando o sentimento é verdadeiro,\naté o silêncio vira música.\"_\n\n🌙 _\"Que essa música te abrace do jeito mais bonito.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
- },
- {
-  "id": 6,
-  "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma música, um sentimento...* 💖\n\n🎙️ _\"Diretamente do coração de *{de}* para você, *{para}*, essa de *{artista}* carrega mais do que som...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Tem sentimentos que não cabem em palavras...\n\neles se escondem nas entrelinhas,\nse revelam nas melodias,\ne encontram você nos momentos certos.\n\nSe essa música tocar fundo,\né porque tem verdade nela.\"_\n\n✨ _\"Sinta cada batida... ela tem um motivo.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
- },
- {
-  "id": 7,
-  "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Recado musical pra você...* 🌹\n\n🎙️ _\"Essa vai de *{de}*... mas não é só uma música...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 Para: *{para}*\n\n📜 _\"No meio da saudade,\nte encontrei nos pensamentos...\n\nNo meio do silêncio,\nte senti nas lembranças...\n\nE agora, na música,\nte envio tudo aquilo que não sei explicar.\"_\n\n🌙 _\"Tem amor, tem saudade... e tem você em tudo.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
- },
- {
-  "id": 8,
-  "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Momento especial no ar...* 💫\n\n🎙️ _\"Uma escolha linda de *{de}* pra tocar algo aí dentro, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n📜 _\"Nem toda música é só som...\n\nalgumas carregam histórias,\noutras carregam saudades...\n\nmas essa aqui,\ncarrega você.\"_\n\n✨ _\"Deixe a música dizer o que palavras não conseguem.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱" 
-},
-{
-"id": 9,
-"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma dedicatória cheia de emoção...* 💖\n\n🎙️ _\"De *{de}* com muito carinho e um sentimento sincero que não cabe em palavras... essa música de *{artista}* foi escolhida pra tocar seu coração, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n✨ _\"Que cada verso te lembre o quanto você é especial e importante...\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-},
-{
-"id": 10,
-"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Um recado especial cheio de carinho...* 🌹\n\n🎙️ _\"Essa música de *{artista}* foi enviada por *{de}*, carregando saudade, amor e um desejo lindo de te ver sorrir, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n🌙 _\"Feche os olhos, escute com o coração e sinta esse carinho chegando até você...\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-},
-{
-"id": 11,
-"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Momento musical cheio de sentimento...* 🌸\n\n🎙️ _\"Uma escolha especial de *{de}* que carrega emoção em cada nota dessa linda música de *{artista}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n💫 _\"Que essa canção envolva seu coração e transforme seu momento em algo inesquecível...\"_ 💫\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-},
-{
-"id": 12,
-"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Uma música pra marcar o coração...* 💫\n\n🎙️ _\"Diretamente de *{de}*, essa canção de *{artista}* foi escolhida com carinho pra fazer parte do seu momento, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Que cada batida leve até você um pedacinho desse sentimento lindo...\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-},
-{
-"id": 13,
-"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Clima perfeito de amor no ar...* 🌟\n\n🎙️ _\"Essa vai com carinho de *{de}*, trazendo uma energia linda através dessa música de *{artista}* especialmente pra você, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Deixe essa melodia te abraçar e transformar seu momento em algo mágico...\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-},
-{
-"id": 14,
-"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma vibe romântica no ar...* 💖\n\n🎙️ _\"De *{de}* para você, *{para}*, essa música de *{artista}* chega carregada de carinho, saudade e sentimentos verdadeiros...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Que cada palavra dessa canção toque seu coração de um jeito especial...\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-},
-{
-"id": 15,
-"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Mensagem especial cheia de amor...* 🌹\n\n🎙️ _\"Uma escolha linda de *{de}*, que encontrou nessa música de *{artista}* a forma perfeita de expressar o que sente por você, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Escute com calma e deixe o sentimento florescer dentro de você...\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-},
-{
-"id": 16,
-"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Um momento só seu, cheio de carinho...* 🌸\n\n🎙️ _\"Essa música de *{artista}* foi enviada por *{de}* especialmente pra você, *{para}*, com um sentimento que vai além das palavras...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Que esse som te envolva e te faça sentir algo único...\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-},
-{
-"id": 17,
-"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Som especial cheio de emoção...* 💫\n\n🎙️ _\"Diretamente de *{de}*, essa música de *{artista}* chega até você carregando sentimentos sinceros e uma energia linda...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Deixe essa melodia tocar sua alma e aquecer seu coração...\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-},
-{
-"id": 18,
-"template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Pra você aproveitar com o coração...* 🌟\n\n🎙️ _\"Essa música de *{artista}* foi escolhida por *{de}* com muito carinho, pensando em você, *{para}*, em cada detalhe desse momento...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Curta cada segundo, porque essa mensagem vem direto do coração...\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
-},
-  
+      {
+        "id": 1,
+        "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Das ondas do amor, chegou uma dedicatória especial...* 🌹\n\n🎙️ _\"Em meio a tantos pensamentos, alguém lembrou de você e escolheu essa música de *{artista}*...\"_\n\n💌 *{musica}* — *{artista}*\n💐 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Se as palavras não alcançam,\na música fala por mim...\nporque em cada verso,\nexiste um pedaço do que eu sinto por você.\"_\n\n🌙 _\"Que essa canção te encontre, te abrace... e te faça lembrar que você é especial.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+      },
+      {
+        "id": 2,
+        "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌺 *Atenção... uma dedicatória cheia de sentimento chegou pra você...* 🌺\n\n🎙️ _\"Entre tantos pensamentos, alguém parou por um instante... só pra lembrar de você e escolher essa música de *{artista}*...\"_\n\n💿 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Não foi por acaso...\nfoi saudade,\nfoi carinho,\nfoi o coração chamando baixinho por você.\n\nSe essa música tocar diferente aí dentro,\npode ter certeza...\né porque tem alguém aqui sentindo muito por você.\"_\n\n🌙 _\"Agora fecha os olhos, escuta com calma... porque algumas músicas não são só ouvidas, são sentidas.\"_ 🌙\n\n✨ _\"E talvez, nesse exato momento, essa canção seja o jeito mais bonito de dizer: eu lembrei de você.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+      },
+      {
+        "id": 3,
+        "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🕊️ *Mensagem musical com amor...* 🕊️\n\n🎙️ _\"*{de}* escolheu essa música de *{artista}* pra você, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}*\n\n🌙 _\"Fecha os olhos e sente a música. Tem sentimento aqui.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+      },
+      {
+       "id": 4,
+       "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Dedicatória especial chegando...* 💫\n\n🎙️ _\"Hoje *{de}* parou por um instante, pensou em você, *{para}*, e decidiu transformar esse sentimento em música...\"_\n\n🎶 *{musica}* — *{artista}*\n🌷 De: *{de}* ➡️ Para: *{para}*\n\n📜 _\"Nem sempre dá pra explicar o que se sente...\nmas dá pra sentir em silêncio,\nem cada nota,\nem cada verso que toca mais fundo.\n\nSe essa música mexer com você,\ntalvez seja porque alguém aqui sente mais do que consegue dizer.\"_\n\n🌙 _\"A música fala o que o coração guarda.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+      },
+      {
+        "id": 5,
+        "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Carta de amor em forma de música* 🌸\n\n🎙️ _\"*{de}* não encontrou palavras suficientes... então escolheu essa de *{artista}* pra falar por ele(a), *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Se cada nota fosse um abraço,\nvocê estaria envolvido agora...\n\nSe cada verso fosse um pensamento,\nseria só você na mente.\n\nPorque quando o sentimento é verdadeiro,\naté o silêncio vira música.\"_\n\n🌙 _\"Que essa música te abrace do jeito mais bonito.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+      },
+      {
+        "id": 6,
+        "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma música, um sentimento...* 💖\n\n🎙️ _\"Diretamente do coração de *{de}* para você, *{para}*, essa de *{artista}* carrega mais do que som...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Tem sentimentos que não cabem em palavras...\n\neles se escondem nas entrelinhas,\nse revelam nas melodias,\ne encontram você nos momentos certos.\n\nSe essa música tocar fundo,\né porque tem verdade nela.\"_\n\n✨ _\"Sinta cada batida... ela tem um motivo.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+      },
+      {
+      "id": 7,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Recado musical pra você...* 🌹\n\n🎙️ _\"Essa vai de *{de}*... mas não é só uma música...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 Para: *{para}*\n\n📜 _\"No meio da saudade,\nte encontrei nos pensamentos...\n\nNo meio do silêncio,\nte senti nas lembranças...\n\nE agora, na música,\nte envio tudo aquilo que não sei explicar.\"_\n\n🌙 _\"Tem amor, tem saudade... e tem você em tudo.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+      },
+      {
+       "id": 8,
+       "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Momento especial no ar...* 💫\n\n🎙️ _\"Uma escolha linda de *{de}* pra tocar algo aí dentro, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n📜 _\"Nem toda música é só som...\n\nalgumas carregam histórias,\noutras carregam saudades...\n\nmas essa aqui,\ncarrega você.\"_\n\n✨ _\"Deixe a música dizer o que palavras não conseguem.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱" 
+      },
+      {
+        "id": 9,
+        "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma dedicatória cheia de emoção...* 💖\n\n🎙️ _\"De *{de}* com muito carinho e um sentimento sincero que não cabe em palavras... essa música de *{artista}* foi escolhida pra tocar seu coração, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n✨ _\"Que cada verso te lembre o quanto você é especial e importante...\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+      },
+      {
+        "id": 10,
+        "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Um recado especial cheio de carinho...* 🌹\n\n🎙️ _\"Essa música de *{artista}* foi enviada por *{de}*, carregando saudade, amor e um desejo lindo de te ver sorrir, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n🌙 _\"Feche os olhos, escute com o coração e sinta esse carinho chegando até você...\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+      },
+      {
+        "id": 11,
+        "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Momento musical cheio de sentimento...* 🌸\n\n🎙️ _\"Uma escolha especial de *{de}* que carrega emoção em cada nota dessa linda música de *{artista}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n💫 _\"Que essa canção envolva seu coração e transforme seu momento em algo inesquecível...\"_ 💫\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+      },
+      {
+      "id": 12,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Uma música pra marcar o coração...* 💫\n\n🎙️ _\"Diretamente de *{de}*, essa canção de *{artista}* foi escolhida com carinho pra fazer parte do seu momento, *{para}*...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Que cada batida leve até você um pedacinho desse sentimento lindo...\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+     },
+     {
+      "id": 13,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Clima perfeito de amor no ar...* 🌟\n\n🎙️ _\"Essa vai com carinho de *{de}*, trazendo uma energia linda através dessa música de *{artista}* especialmente pra você, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Deixe essa melodia te abraçar e transformar seu momento em algo mágico...\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+     },
+     {
+      "id": 14,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma vibe romântica no ar...* 💖\n\n🎙️ _\"De *{de}* para você, *{para}*, essa música de *{artista}* chega carregada de carinho, saudade e sentimentos verdadeiros...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Que cada palavra dessa canção toque seu coração de um jeito especial...\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 15,
+        "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Mensagem especial cheia de amor...* 🌹\n\n🎙️ _\"Uma escolha linda de *{de}*, que encontrou nessa música de *{artista}* a forma perfeita de expressar o que sente por você, *{para}*...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Escute com calma e deixe o sentimento florescer dentro de você...\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 16,
+       "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Um momento só seu, cheio de carinho...* 🌸\n\n🎙️ _\"Essa música de *{artista}* foi enviada por *{de}* especialmente pra você, *{para}*, com um sentimento que vai além das palavras...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Que esse som te envolva e te faça sentir algo único...\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+       "id": 17,
+       "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Som especial cheio de emoção...* 💫\n\n🎙️ _\"Diretamente de *{de}*, essa música de *{artista}* chega até você carregando sentimentos sinceros e uma energia linda...\"_\n\n🎶 *{musica}* — *{artista}*\n\n🌙 _\"Deixe essa melodia tocar sua alma e aquecer seu coração...\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 18,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌟 *Pra você aproveitar com o coração...* 🌟\n\n🎙️ _\"Essa música de *{artista}* foi escolhida por *{de}* com muito carinho, pensando em você, *{para}*, em cada detalhe desse momento...\"_\n\n🎵 *{musica}* — *{artista}*\n\n✨ _\"Curta cada segundo, porque essa mensagem vem direto do coração...\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 19,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Uma onda de carinho no ar... mensagem chegando* 💗\n\n🎙️ _\"{de} parou, respirou fundo e escolheu essa música de *{artista}* especialmente pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Tem gente que a gente guarda sem saber...\num pensamento que insiste em ficar,\numa saudade que não pede licença.\n\nFoi assim que você apareceu.\nE o que fazer com tanto sentimento?\nTransformar em música.\n\nAqui está.\nFeita de verso, de nota, de um quase abraço.\nSó pra você.\"_\n\n🌙 _\"Que essa canção te faça sorrir sem motivo.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 20,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Uma música, um sentimento, um coração falando por você...* 💖\n\n🎙️ _\"{de} sentiu saudade e mandou essa música de *{artista}* pra te aquecer por dentro, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* ➡️ Para: *{para}*\n\n📜 _\"Se o pensamento voasse,\nele estaria aí agora.\nSe a saudade fosse flor,\nvocê teria um jardim.\n\nComo nem tudo é possível,\nfiz o que pude:\nmandei uma música.\n\nEla carrega o que as palavras não alcançam.\nEla diz, em cada nota,\nalgo que só o coração entende.\n\nEscuta com calma. É pra você.\"_\n\n✨ _\"Deixa essa canção te abraçar bem devagar.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 21,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Dedicatória especial no ar... prepara o coração* 💫\n\n🎙️ _\"{de} escolheu essa música de *{artista}* com todo carinho pensando em você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Sabe aquela vontade de dizer algo\nmas as palavras se escondem?\n\nAconteceu comigo.\nEntão escolhi uma música.\nPorque ela fala o que eu não sei dizer.\n\nCada verso é um pensamento seu,\ncada batida um pedacinho de saudade.\n\nAgora é só escutar.\nO resto, o coração entende.\"_\n\n🌙 _\"Fecha os olhos e sente... tem carinho no ar.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 22,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *Um sopro de carinho acabou de chegar pra você...* 🍃\n\n🎙️ _\"{de} aproveitou o silêncio e mandou essa música de *{artista}* inteira pro seu coração, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Nem todo encontro é com o corpo.\nAlguns são com a alma.\n\nEu não posso estar aí agora,\nmas essa música pode.\nEla vai chegar sem bater na porta,\nentrar devagarinho\ne se aninhar no seu peito.\n\nPermite?\nÉ um pedaço de mim em forma de canção.\nCuidado... tem sentimento de verdade aqui.\"_\n\n🌟 _\"Que essa melodia te faça boa companhia.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 23,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Espalhando amor pelas ondas do rádio... essa é pra você* 💖\n\n🎙️ _\"{de} escolheu a dedo essa música de *{artista}* pra te lembrar o quanto você é especial, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💐 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Tem coisa que só a música consegue dizer.\nPalavras às vezes são poucas,\nou atrapalhadas,\nou não existem.\n\nMas a música chega.\nEla entra sem pedir licença\ne acampa no coração.\n\nFoi assim que escolhi essa.\nEla é o que eu não sei falar,\no que não cabe em texto,\no que só o som pode entregar.\n\nAceita? É pouco, mas é sincero.\"_\n\n🌙 _\"Escuta com o coração aberto... vale a pena.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 24,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Uma canção pra guardar no peito... mensagem enviada* 💗\n\n🎙️ _\"{de} acordou com o coração apertado e a única solução foi mandar essa música de *{artista}* pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* ✨ Para: *{para}*\n\n📜 _\"Saudade não tem hora pra chegar.\nEla aparece,\nsenta no cantinho do peito\ne fica.\n\nFoi assim que você veio parar aqui,\nnos meus pensamentos,\nsem aviso, sem pedir licença,\nsó porque sim.\n\nE pra não deixar passar,\nfiz essa dedicatória.\nEla é toda sua.\n\nAceita como um abraço de longe.\"_\n\n✨ _\"Que essa canção te faça lembrar que você é muito querido(a).\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 25,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Prepara o coração que chegou mensagem especial...* 💫\n\n🎙️ _\"{de} parou tudo o que tava fazendo só pra escolher essa música de *{artista}* pensando em você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Sabe aquela música que parece que foi escrita pra você?\nQue cada palavra se encaixa,\ncada verso faz sentido,\ncada nota toca fundo?\n\nFoi essa que escolhi.\nPorque ela fala de algo que eu sinto\nmas nunca sei explicar direito.\n\nAgora é sua.\nEscuta, sente, se emociona.\nTem um pedaço de mim aqui dentro.\"_\n\n🌙 _\"Deixa a música falar por mim hoje.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 26,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Das ondas do amor, mais uma dedicatória chegou...* 🌹\n\n🎙️ _\"{de} navegou pelo mundo das canções e encontrou essa joia de *{artista}* pra te presentear, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Não tenho um jardim de flores pra te dar.\nMas tenho uma música.\nEla não murcha, não morre,\nnão precisa de água nem de sol.\n\nEla só precisa de um ouvido atento\ne um coração aberto.\n\nEla é minha forma de dizer\nque você é especial,\nque eu lembro de você,\nque existe carinho guardado aqui.\n\nAceita? É simples, mas é verdadeiro.\"_\n\n🌙 _\"Que cada nota chegue em você como um abraço.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 27,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💕 *Sintoniza aqui que o amor tá no ar...* 💕\n\n🎙️ _\"{de} ligou o rádio do coração e transmitiu essa música de *{artista}* direto pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Sabe quando o peito aperta\ne a única saída é uma música?\n\nFoi assim.\nPensei em você,\nsenti sua falta,\ne escolhi essa canção.\n\nEla diz coisas que eu não sei falar.\nCoisas sobre saudade,\nsobre carinho,\nsobre como é bom ter você por perto\nmesmo quando não dá.\n\nEscuta. É sincero.\"_\n\n✨ _\"Que essa canção te faça sorrir como você merece.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 28,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Uma pausa no silêncio... mensagem musical chegando* 💫\n\n🎙️ _\"{de} respirou fundo e resolveu mandar essa música de *{artista}* pra te fazer companhia, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 🌷 Para: *{para}*\n\n📜 _\"Às vezes a gente não precisa de muito.\nSó de uma música que entenda a gente.\nQue toque no lugar certo.\nQue diga o que a gente sente.\n\nFoi isso que quis pra você.\nEssa canção é um pedaço de mim\nque resolveu viajar pelo rádio\npra te encontrar.\n\nRecebe com carinho.\nVeio de longe, mas veio inteira.\"_\n\n🌙 _\"Deixa essa melodia te abraçar quando você precisar.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 29,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Amor em forma de música... essa é só sua* 💗\n\n🎙️ _\"{de} fechou os olhos, pensou em você e apertou play nessa música de *{artista}* pra te alcançar, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Tem sentimentos que não cabem em mim.\nEles transbordam, se espalham,\nprecisam de um lugar pra ir.\n\nEntão escolhi uma música.\nEla é meu transbordar.\nMeu jeito de dizer\nque você faz falta,\nque seu sorriso faz diferença,\nque ter você por perto é bom demais.\n\nAgora aperta o play\ne deixa o sentimento entrar.\"_\n\n🌟 _\"Que cada batida seja um pedacinho de carinho.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 30,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Recado musical carregado de saudade e carinho...* 🌹\n\n🎙️ _\"{de} sentiu uma vontade enorme de dizer algo e encontrou nessa música de *{artista}* a voz que precisava, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Se eu pudesse, estaria aí agora.\nMas como não dá,\nfaço o que posso:\nmando uma música.\n\nEla carrega o que eu sinto,\no que eu guardo,\no que eu queria falar olho no olho.\n\nCada nota é um pensamento seu.\nCada verso é um pouco de saudade.\n\nEscuta com calma,\nsente com cuidado.\nÉ de verdade.\"_\n\n🌙 _\"Que essa canção te encontre bem e te faça sorrir.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+     {
+      "id": 31,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💕 *Uma onda de carinho acaba de chegar no ar...* 💕\n\n🎙️ _\"{de} parou tudo, respirou fundo e escolheu essa música de *{artista}* especialmente pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Tem gente que a gente carrega sem saber.\nNum pensamento solto,\nnuma lembrança que insiste em ficar,\nnuma saudade que aperta de leve.\n\nFoi assim que você apareceu.\nE o que fazer com tanto sentimento?\nTransformar em música.\n\nAqui está.\nFeita de verso, de nota, de um quase abraço.\nÉ pouco, mas é sincero.\"_\n\n✨ _\"Que essa canção te faça lembrar o quanto você é especial.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 32,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Atenção... seu coração vai receber uma visita musical* 💖\n\n🎙️ _\"{de} mergulhou nos sentimentos e trouxe essa música de *{artista}* pra flutuar até você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Sabe quando a saudade aperta\ne a gente não sabe explicar?\n\nAconteceu comigo.\nPensei em você,\nsenti sua falta,\ne a única saída foi uma música.\n\nEla diz o que palavras não alcançam.\nCada verso é um pensamento seu,\ncada batida um pedacinho de carinho.\n\nAgora é só escutar.\nO resto, o coração entende.\"_\n\n🌙 _\"Fecha os olhos e sente... tem amor no ar.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 33,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Mensagem musical chegando... prepara o coração* 💫\n\n🎙️ _\"{de} escolheu a dedo essa música de *{artista}* pensando em cada detalhe seu, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 🌸 Para: *{para}*\n\n📜 _\"Não sei se você sabe,\nmas tem alguém que pensa em você.\nQue lembra do seu sorriso,\nque guarda momentos,\nque sente sua falta mesmo sem motivo.\n\nSou eu.\nE essa música é minha forma de dizer\nque você não sai da minha cabeça.\n\nRecebe com carinho.\nÉ verdadeiro.\"_\n\n🌟 _\"Que cada nota te alcance como um abraço.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 34,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Das ondas do amor, mais uma dedicatória chegou pra você* 🌹\n\n🎙️ _\"{de} parou por um instante, pensou em você e transformou esse sentimento nessa música de *{artista}*, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Nem todo encontro é com o corpo.\nAlguns são com a alma.\n\nEu não posso estar aí agora,\nmas essa música pode.\nEla vai chegar devagarinho,\nsem fazer barulho,\ne vai se aninhar no seu peito.\n\nPermite?\nÉ um pedaço de mim em forma de canção.\nCuida dela.\"_\n\n🌙 _\"Deixa a melodia te fazer companhia.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 35,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Espalhando carinho pelas ondas do rádio... essa é sua* 💗\n\n🎙️ _\"{de} sentiu o peito apertar e a única solução foi mandar essa música de *{artista}* pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Tem coisa que só a música consegue dizer.\nPalavras às vezes são poucas,\nou atrapalhadas,\nou simplesmente não existem.\n\nMas a música chega.\nEla entra sem pedir licença,\nacampa no coração\ne fica.\n\nFoi assim que escolhi essa.\nEla é o que não sei falar,\no que não cabe em texto,\no que só o som pode entregar.\n\nAceita? É pouco, mas é sincero.\"_\n\n✨ _\"Escuta com o coração aberto.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 36,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Uma canção pra guardar na memória e no coração* 💫\n\n🎙️ _\"{de} fechou os olhos, respirou fundo e escolheu essa música de *{artista}* pensando só em você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 🌷 Para: *{para}*\n\n📜 _\"Sabe aquela música que parece que foi escrita pra você?\nQue cada palavra se encaixa,\ncada verso faz sentido,\ncada nota toca fundo?\n\nFoi essa que escolhi.\nPorque ela fala de algo que eu sinto\nmas nunca sei explicar direito.\n\nAgora é sua.\nEscuta, sente, se emociona.\nTem um pedaço de mim aqui dentro.\nGuarda com carinho.\"_\n\n🌙 _\"Deixa a música falar por mim hoje.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 37,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💕 *Sintoniza essa frequência... o amor tá no ar* 💕\n\n🎙️ _\"{de} ligou o rádio do coração e transmitiu essa música de *{artista}* direto pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Sabe quando o peito aperta\ne a única saída é uma música?\n\nFoi assim.\nPensei em você,\nsenti sua falta,\ne escolhi essa canção.\n\nEla diz coisas que eu não sei falar.\nCoisas sobre saudade,\nsobre carinho,\nsobre como é bom ter você por perto\nmesmo quando não dá.\n\nEscuta. É sincero.\"_\n\n🌟 _\"Que essa canção te faça sorrir como você merece.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 38,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Recado musical carregado de saudade e verdade* 🌹\n\n🎙️ _\"{de} navegou pelo mundo das canções e encontrou essa joia de *{artista}* pra te presentear, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Não tenho flores pra te dar.\nNão tenho presentes pra embrulhar.\nMas tenho uma música.\n\nEla não murcha, não morre,\nnão precisa de água nem de sol.\nEla só precisa de um ouvido atento\ne um coração aberto.\n\nEla é minha forma de dizer\nque você é especial,\nque eu lembro de você,\nque existe carinho guardado aqui.\n\nAceita? É simples, mas é verdadeiro.\"_\n\n🌙 _\"Que cada nota chegue em você como um abraço.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 39,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Uma pausa no silêncio... chegou mensagem musical* 💫\n\n🎙️ _\"{de} respirou fundo e resolveu mandar essa música de *{artista}* pra te fazer companhia, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 🌸 Para: *{para}*\n\n📜 _\"Às vezes a gente não precisa de muito.\nSó de uma música que entenda a gente.\nQue toque no lugar certo.\nQue diga o que a gente sente.\n\nFoi isso que quis pra você.\nEssa canção é um pedaço de mim\nque resolveu viajar pelo rádio\npra te encontrar.\n\nRecebe com carinho.\nVeio de longe, mas veio inteira.\nÉ de verdade.\"_\n\n✨ _\"Deixa essa melodia te abraçar.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 40,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Amor em forma de música... essa é só sua, guarda com cuidado* 💗\n\n🎙️ _\"{de} fechou os olhos, pensou em você e apertou play nessa música de *{artista}* pra te alcançar, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Tem sentimentos que não cabem em mim.\nEles transbordam, se espalham,\nprecisam de um lugar pra ir.\n\nEntão escolhi uma música.\nEla é meu transbordar.\nMeu jeito de dizer\nque você faz falta,\nque seu sorriso faz diferença,\nque ter você por perto é bom demais.\n\nAgora aperta o play\ne deixa o sentimento entrar.\nEle veio pra ficar.\"_\n\n🌙 _\"Que cada batida seja um pedacinho de carinho.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 41,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💌 *Se o amor fosse feito de som, seria exatamente essa canção...* 💌\n\n🎙️ _\"{de} tirou um pedaço do peito e transformou nessa música de *{artista}* pra te entregar, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Se eu pudesse, escrevia seu nome no céu.\nMas como não dá,\nfiz algo mais simples:\nescolhi uma música.\n\nPorque ela consegue chegar onde eu não chego.\nEla entra no seu ouvido,\n desce devagar,\ne se instala no seu peito.\n\nÉ assim que quero ficar em você.\nEm cada nota,\nem cada verso,\nem cada pausa.\n\nAceita? É de coração.\"_\n\n🌙 _\"Que essa canção seja o que o meu silêncio não consegue dizer.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 42,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Seu nome ecoou no meu peito e a única resposta foi essa música...* 🌹\n\n🎙️ _\"{de} lembrou do seu sorriso sem querer e, de repente, já estava escolhendo essa música de *{artista}* pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Sabe quando alguém invade seus pensamentos\nsem pedir licença e decide ficar?\n\nFoi você.\nE não reclamo, não.\nAté gosto.\n\nO problema é que, de repente,\neu precisava te dizer algo\nmas as palavras sumiram.\n\nEntão veio a música.\nEla falou por mim.\nEspero que você escute com o coração.\"_\n\n✨ _\"Que cada verso te faça lembrar que você é importante pra alguém.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 43,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💕 *O rádio pode até transmitir sons, mas hoje ele está transmitindo um pedaço de mim...* 💕\n\n🎙️ _\"{de} resolveu se abrir e deixou que essa música de *{artista}* falasse o que ele(a) guarda no peito, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Existem pessoas que marcam a gente\nsem fazer esforço nenhum.\nVocê é uma dessas.\n\nTá na minha memória,\nnos meus dias,\nnas músicas que escuto.\n\nFoi por isso que escolhi essa.\nEla já era minha favorita,\nmas agora ganhou um novo significado:\nvocê.\n\nEscuta sabendo disso.\"_\n\n🌙 _\"Que essa canção te faça sorrir sem motivo.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 44,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Se existisse um abraço musical, seria esse...* 💫\n\n🎙️ _\"{de} não conseguiu segurar a saudade e ela escorreu pelos dedos até virar essa música de *{artista}* pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Saudade não é falta.\nÉ presença disfarçada.\nÉ alguém que mora dentro da gente\nmesmo estando longe.\n\nVocê mora aqui.\nTem um quarto, uma cadeira,\num canto especial.\n\nE hoje resolvi abrir a porta\ne deixar essa música entrar também.\n\nEla veio pra te encontrar.\nRecebe, é sua.\"_\n\n🌟 _\"Deixa a melodia te envolver como um abraço.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 45,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Sabe aquele pensamento que não sai da gente? Pois é... você virou música* 🌸\n\n🎙️ _\"{de} tentou ignorar, mas não deu. Você insistiu tanto que ele(a) teve que transformar em canção de *{artista}*, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Tem gente que vira vício bom.\nQue a gente não quer largar,\nque faz falta quando some,\nque alegra quando volta.\n\nVocê é esse vício.\nE hoje precisei de uma dose de você.\nComo não podia te ter por perto,\npedi ajuda pra uma música.\n\nEla está aí, bem pertinho.\nAperta o play.\"_\n\n🌙 _\"Que cada nota seja um pedacinho de você comigo.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 46,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Se o amor tivesse endereço, essa música estaria indo pra sua casa agora...* 💗\n\n🎙️ _\"{de} embalou um sentimento com cuidado e mandou entregar por essa música de *{artista}* , {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Não sei o que você está fazendo agora.\nMas queria que parasse um pouco\ne escutasse essa canção.\n\nPorque ela foi escolhida com um propósito:\nte fazer sorrir.\nTe lembrar que você não está sozinho.\nTe mostrar que tem alguém que gosta de você\nde um jeito verdadeiro.\n\nSou eu.\nE essa música é minha prova.\"_\n\n✨ _\"Deixa ela te encontrar onde você estiver.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 47,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Tem gente que a gente escolhe. E você... ah, você foi a melhor escolha que eu fiz* 🌹\n\n🎙️ _\"{de} olhou pra dentro, te encontrou lá, e decidiu que essa música de *{artista}* precisava chegar até você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Sabe aquela coisa que a gente sente\nmas não consegue explicar?\n\nÉ um aperto bom,\numa vontade de estar perto,\numa saudade que ainda não aconteceu.\n\nÉ o que sinto por você.\nE como não sei dizer com palavras,\nfalei com música.\n\nNão é perfeita, mas é sincera.\nAssim como eu.\"_\n\n🌙 _\"Que essa canção te abrace por mim.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 48,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Se a saudade tivesse voz, ela soaria exatamente como essa música...* 💫\n\n🎙️ _\"{de} sentiu aquele vazio gostoso que você deixa e preencheu com essa canção de *{artista}* pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Você já reparou como algumas músicas\ndoem de tão bonitas?\n\nPois é.\nFoi assim que escolhi essa.\nEla dói.\nMas é uma dor boa,\nque lembra que vale a pena sentir.\n\nDedico ela a você.\nPorque você também me faz sentir\ncoisas que valem a pena.\n\nEscuta com o peito aberto.\"_\n\n🌟 _\"Que cada verso te toque onde mais precisa.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 49,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *Se existisse vento que levasse sentimento, ele estaria levando essa música até você agora...* 🍃\n\n🎙️ _\"{de} soltou o que tava guardado e o ar levou até virar essa canção de *{artista}* no seu ouvido, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Tem momentos que a gente só quer\ndizer uma coisa simples:\n'Estou pensando em você.'\n\nMas essa frase, tão pequena,\ncarrega tanta coisa.\n\nEla carrega saudade,\ncarinho,\nvontade de estar junto\nmesmo de longe.\n\nFoi isso que quis te dizer.\nE o melhor jeito que encontrei\nfoi uma música.\n\nEla é meu 'estou pensando em você'.\nEspero que escute.\"_\n\n🌙 _\"Que essa canção te faça lembrar que você é lembrado(a).\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 50,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Sabe aquele amor que não pede nada em troca? Pois é. Essa música é ele.* 💖\n\n🎙️ _\"{de} não pediu permissão, só sentiu. E o sentimento virou essa música de *{artista}* direto pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Não quero nada de você.\nSó quero que escute essa música\nsabendo que ela foi escolhida\ncom um único propósito:\n\nte fazer bem.\n\nSe você sorrir,\nseu coração aquecer,\nse lembrar que existe gente boa no mundo,\nentão minha missão está cumprida.\n\nFoi só por isso.\nPelo seu bem.\n\nAceita?\"_\n\n✨ _\"Que essa canção seja um remédio pra sua alma.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 51,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌷 *Se o meu coração pudesse falar, ele estaria sussurrando essa música no seu ouvido agora...* 🌷\n\n🎙️ _\"{de} tentou guardar, mas não conseguiu. O sentimento era maior e transbordou nessa música de *{artista}* pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Sabe quando algo é tão verdadeiro\nque não cabe dentro da gente?\n\nTransborda, escorre,\nencontra qualquer brecha\ne sai.\n\nFoi assim com o que sinto por você.\nNão coube mais.\nE a única saída foi uma música.\n\nEla é meu transbordar.\nMeu coração falando alto\nmesmo de longe.\n\nEscuta. É tudo verdade.\"_\n\n🌙 _\"Que cada nota seja um pedaço do que sinto por você.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 52,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Você nem imagina, mas tem alguém que parou o mundo só pra pensar em você... e essa música é a prova* 💫\n\n🎙️ _\"{de} largou tudo, fez silêncio e deixou que essa música de *{artista}* falasse por ele(a) diretamente pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"O mundo não para.\nMas eu parei.\n\nParei pra pensar em você.\nParei pra sentir sua falta.\nParei pra escolher cada nota dessa música.\n\nPorque você merece um momento de atenção.\nNem que seja só uma canção.\n\nAqui está.\nFeita de pausa, de silêncio,\nde um 'eu lembrei de você'.\n\nAceita como presente.\"_\n\n✨ _\"Que essa melodia te faça sentir especial.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 53,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Se a saudade tivesse cor, ela seria a cor dessa música...* 🌸\n\n🎙️ _\"{de} sentiu aquele aperto no peito e a única forma de aliviar foi mandar essa canção de *{artista}* pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Você já sentiu saudade de alguém\nque está longe mas parece perto?\n\nÉ assim com você.\nNão importa a distância,\nvocê sempre está aqui,\ndentro do peito,\nnum cantinho quentinho.\n\nE hoje a saudade apertou tanto\nque precisei transformar em música.\n\nEla é o aperto, a distância,\nmas também o carinho que não cabe.\n\nEscuta. É pra você.\"_\n\n🌙 _\"Que essa canção encurte qualquer distância.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 54,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Sabe aquela música que você escuta e pensa 'isso foi feito pra mim'? Então... essa é a sua* 💗\n\n🎙️ _\"{de} escolheu cada detalhe, cada verso, cada pausa dessa música de *{artista}* pensando exclusivamente em você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Tem pessoas que merecem dedicatória.\nNão porque pediram,\nmas porque simplesmente merecem.\n\nVocê é uma dessas.\nMerece saber que é especial,\nque alguém lembra de você,\nque seu sorriso faz falta.\n\nFoi pensando nisso que escolhi essa música.\nEla é um bilhete, um abraço,\num quase 'eu gosto de você'.\n\nAceita com carinho.\"_\n\n🌟 _\"Que cada nota te lembre do seu valor.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 55,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Se o amor fosse uma planta, essa música seria a rega que eu escolhi pra fazer você florescer* 🌹\n\n🎙️ _\"{de} quis cuidar de você de longe e a melhor forma que encontrou foi essa música de *{artista}* , {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Nem todo cuidado é físico.\nÀs vezes, cuidar é mandar uma música.\nÉ dizer 'estou aqui' mesmo de longe.\nÉ fazer companhia sem estar presente.\n\nÉ isso que estou fazendo agora.\nCuidando de você do meu jeito.\n\nEssa música é meu carinho,\nmeu abraço,\nmeu 'você é importante pra mim'.\n\nRecebe e se sente cuidado.\nPorque é verdade.\"_\n\n🌙 _\"Que essa canção te faça sentir abraçado(a).\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 56,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Tem sentimentos que são tão bonitos que a única forma de guardar é transformando em música. Esse é um deles.* 💫\n\n🎙️ _\"{de} pegou o que sente por você, embrulhou com cuidado e entregou nessa canção de *{artista}* , {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Nem tudo na vida a gente consegue explicar.\nMas a gente pode sentir.\n\nE o que sinto por você não cabe em palavras.\nÉ maior, mais gostoso,\nmais aconchegante.\n\nEntão não tentei explicar.\nSó senti.\nE deixei que a música falasse.\n\nEla é a tradução do que vai aqui dentro.\nEspero que você sinta também.\"_\n\n✨ _\"Que cada nota seja uma palavra que eu não sei dizer.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 57,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *Se o pensamento voasse, você estaria cheio deles agora. Já que não voa, mandei uma música no lugar.* 🍃\n\n🎙️ _\"{de} queria estar aí, mas como não dá, mandou essa música de *{artista}* pra te fazer sorrir, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Você já parou pra pensar\nque alguém pode estar pensando em você\nagora mesmo?\n\nPois é.\nEstou.\n\nPensando no seu sorriso,\nna sua voz,\nnos momentos bons.\n\nE como não sei fazer mágica\npra aparecer aí do nada,\nfiz o que podia:\nmandei uma música.\n\nEla é meu pensamento virando som.\nEscuta, que eu continuo pensando.\"_\n\n🌙 _\"Que essa canção te faça companhia enquanto eu penso em você.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 58,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💖 *Sabe aquele abraço que a gente não pode dar? Eu transformei ele nessa música pra te alcançar* 💖\n\n🎙️ _\"{de} esticou os braços pela distância, mas como não alcançou, transformou o gesto nessa canção de *{artista}* pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Tem abraço que não precisa de braços.\nEle vem pelo som,\npela melodia,\npela certeza de que existe carinho.\n\nÉ esse que estou te dando agora.\nUm abraço musical.\nAperta bem, demora,\nmas chega quentinho.\n\nSinta ele.\nÉ como se eu estivesse aí,\ndo seu lado,\nnum silêncio gostoso.\n\nÉ pra você.\"_\n\n🌟 _\"Que esse abraço musical te aqueça.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 59,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌷 *Se o coração falasse, ele pediria pra você escutar essa música com os olhos fechados* 🌷\n\n🎙️ _\"{de} fechou os olhos, pensou em você e apertou o play nessa música de *{artista}* , {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Sabe aquele momento em que a música\ne o sentimento se encontram?\n\nÉ raro, mas acontece.\nE quando acontece,\na gente precisa dividir.\n\nFoi o que fiz.\nMeu sentimento por você encontrou essa música.\nE ficou perfeito.\n\nAgora quero que você feche os olhos,\nescute com calma,\ne deixe os dois te encontrarem também.\n\nÉ especial.\"_\n\n🌙 _\"Fecha os olhos e sente... tem amor nessa canção.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 60,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Tem gente que a gente não esquece. E você, meu bem, entrou nessa lista sem pedir licença* 💫\n\n🎙️ _\"{de} tentou te tirar da cabeça, mas você insistiu em ficar. Então ele(a) resolveu te homenagear com essa música de *{artista}* , {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Você é dessas pessoas que marcam.\nNão precisa fazer força,\nnão precisa de muito.\nSó precisa existir.\n\nE já basta.\n\nVocê existe e eu não consigo te esquecer.\nVocê mora aqui, na memória,\nnos pensamentos,\nnas músicas que escuto.\n\nEssa é mais uma delas.\nDedico a você.\nComo um presente pela sua existência.\n\nObrigado(a) por existir.\"_\n\n✨ _\"Que essa canção te lembre o quanto você é inesquecível.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+     {
+      "id": 61,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💕 *Se eu pudesse juntar todas as estrelas do céu, ainda assim não seria suficiente pra explicar o que sinto por você. Então fiz uma música...* 💕\n\n🎙️ _\"{de} juntou cada pedacinho de sentimento e coloriu essa música de *{artista}* só pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Você sabe aquela sensação de peito quente?\nDe sorriso que não sai do rosto?\nDe vontade de abraçar o mundo?\n\nÉ o que sinto quando penso em você.\n\nSe eu pudesse, juntava tudo isso\n e colocava numa caixa.\nMas como não sei fazer caixas,\ncoloquei numa música.\n\nAqui está.\nAbra com cuidado.\nTem sentimento de verdade dentro.\"_\n\n🌙 _\"Que essa melodia te faça sorrir igual eu estou agora.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 62,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Sabe aquele beijo que a gente não pode dar? Eu mandei um beijo musical pra você...* 🌹\n\n🎙️ _\"{de} colocou todo carinho que sente nessa música de *{artista}* e soprou na direção do seu coração, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Nem todo beijo é com a boca.\nTem beijo que é ouvido.\nQue chega devagarinho,\npousa no seu ombro,\ne faz seu coração acelerar.\n\nÉ esse que estou te mandando agora.\nUm beijo musical,\nfeito de verso e melodia.\n\nSente ele?\nTá aí, bem pertinho.\n\nÉ meu 'te quero bem'\nem forma de canção.\"_\n\n✨ _\"Que esse beijo musical te encontre e te faça sorrir.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 63,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *O rádio tá ligado, mas quem tá falando mesmo é meu coração... e ele só quer saber de você.* 💫\n\n🎙️ _\"{de} desligou o barulho do mundo e ligou o volume do sentimento nessa música de *{artista}* pra te alcançar, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Escuta só.\nTem uma frequência nova no ar.\nNão precisa de rádio pra captar,\nbasta o coração.\n\nEla diz coisas bonitas.\nDiz que alguém pensou em você,\nque alguém sentiu sua falta,\nque alguém escolheu uma música\npra te fazer feliz.\n\nEsse alguém sou eu.\nE essa frequência é nossa.\n\nSintoniza comigo.\"_\n\n🌙 _\"Que essa frequência do amor te alcance onde você estiver.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝤙𝔥𝔱"
+    },
+    {
+      "id": 64,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *Se a distância fosse uma ponte, eu já teria atravessado. Já que não é, atravessei com uma música.* 🍃\n\n🎙️ _\"{de} construiu uma ponte de notas e versos com essa música de *{artista}* pra chegar até você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Distância é invenção.\nPorque quando a gente quer estar perto,\nnenhum quilômetro impede.\n\nNão estou aí agora,\nmas estou.\nNessa música, nessa nota,\nnesse verso que fiz questão de escolher.\n\nEstou pertinho de você,\nno seu ouvido,\nno seu peito.\n\nSente minha presença?\"_\n\n🌟 _\"Que essa canção seja a ponte que une a gente.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 65,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Tem palavras que não saem. Tem sentimentos que transbordam. Tem músicas que curam. Essa é pra você.* 💗\n\n🎙️ _\"{de} tirou a alma do peito, limpou com cuidado e colocou nessa música de *{artista}* pra te entregar, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Não sei se você precisa de cura.\nMas se precisar, aqui está.\nUma música que escolhi pra te fazer bem.\n\nEla não tem remédio na letra,\nnem médico no refrão.\nMas tem carinho.\nE carinho também cura.\n\nRecebe esse carinho\ne deixa ele agir onde doer.\n\nSe não estiver doendo nada,\nsó escuta e sorri.\nJá valeu.\"_\n\n🌙 _\"Que essa canção cure o que precisar ser curado.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 66,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Tem gente que a gente quer guardar pra sempre. Você é uma delas. E essa música é meu jeito de te guardar.* 🌸\n\n🎙️ _\"{de} quis eternizar o que sente e encontrou nessa música de *{artista}* a moldura perfeita, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Sabe aquela vontade de guardar\nalguém numa caixa\ne nunca deixar sair?\n\nNão é uma caixa de verdade.\nÉ uma caixa de memória,\nde sentimento,\nde música.\n\nEssa canção é sua caixa.\nEu guardo você nela.\nE sempre que ela tocar,\nvocê estará aqui comigo.\n\nAgora ela é sua também.\nGuarda ela. Guarda a gente.\"_\n\n✨ _\"Que essa melodia guarde você pra sempre.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 67,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Se o amor fosse um país, você seria a capital. E essa música, o hino.* 💫\n\n🎙️ _\"{de} te coroou como dono(a) do coração e preparou essa música de *{artista}* como sua homenagem, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"No meu mundo, você manda.\nNas minhas músicas, você é a favorita.\nNos meus pensamentos, você é o que mais aparece.\n\nSe meu coração fosse um país,\nseu retrato estaria em todas as paredes.\n\nEssa música é pra você.\nComo se fosse um hino,\nmas de amor.\n\nToca ela bem alto.\nÉ sua.\"_\n\n🌙 _\"Que essa canção seja a trilha sonora dos nossos melhores momentos.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 68,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌷 *Você é daquelas pessoas que merecem música própria. Como não posso gravar uma, escolhi essa. Ela é sua agora.* 🌷\n\n🎙️ _\"{de} vasculhou cada canto do peito, encontrou você morando lá, e resolveu te presentear com essa música de *{artista}*, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Nem todo mundo ganha uma música.\nSó quem é especial.\n\nVocê é.\nPor isso estou aqui,\nescolhendo cada nota,\ncada verso,\ncada pausa.\n\nEssa canção é um presente.\nUm 'você merece' em forma de som.\n\nAceita e escuta sabendo\nque foi feita pensando em você.\n\nDe verdade.\"_\n\n🌟 _\"Que essa música te faça sentir o quão especial você é.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 69,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *Sabe quando o peito aperta de um jeito bom? É assim que me sinto quando lembro de você. E essa música é o aperto.* 🍃\n\n🎙️ _\"{de} sentiu aquele aperto gostoso e resolveu dividir ele com você através dessa música de *{artista}*, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Tem aperto que machuca.\nMas tem aperto que aquece.\n\nO que sinto por você é o segundo tipo.\nAperta o peito,\nmas é um lembrete bom.\nUm 'você existe e isso me faz feliz'.\n\nHoje o aperto veio forte\n e precisei transformar em música.\n\nAqui está ele.\nO aperto, o sentimento,\na vontade de estar perto.\n\nTudo em forma de canção.\nTudo pra você.\"_\n\n🌙 _\"Que esse aperto bom te alcance e te faça sorrir.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 70,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Se o meu coração fosse um rádio, ele só tocaria essa música. E só pra você.* 💗\n\n🎙️ _\"{de} sintonizou a melhor frequência e captou essa música de *{artista}* pra transmitir exclusivamente pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Meu coração tem uma programação.\nEla é simples: só você.\n\nO dia inteiro, toda hora,\nem cada minuto.\n\nHoje ele resolveu fazer uma transmissão ao vivo.\nA música escolhida foi essa.\n\nPorque ela fala de você,\nmesmo sem saber.\n\nLiga seu coração na minha frequência.\nSó hoje, só agora.\nÉ especial.\"_\n\n✨ _\"Que o som do meu coração chegue até você nessa canção.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+     {
+      "id": 71,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Se eu pudesse escolher um som pra definir o que sinto por você, seria exatamente essa música.* 🌹\n\n🎙️ _\"{de} procurou no mundo inteiro uma forma de te dizer algo bonito e encontrou nessa música de *{artista}* a resposta, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Sabe quando algo é tão verdade\nque não precisa de explicação?\n\nÉ o que sinto.\nNão sei dizer com palavras\nmas sei sentir.\n\nE essa música traduz direitinho.\nCada nota é um pedacinho,\ncada verso um suspiro,\ncada pausa um silêncio cheio de você.\n\nEscuta com calma.\nÉ o meu coração falando.\"_\n\n🌙 _\"Que essa canção seja a voz do que não consigo falar.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 72,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Tem gente que a gente cruza na vida e passa batido. Mas você... você eu parei pra admirar. E essa música é minha admiração.* 🌸\n\n🎙️ _\"{de} parou o mundo por um instante, te admirou em silêncio, e transformou esse olhar nessa música de *{artista}* pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Sabe aquela pessoa que passa\ne a gente não consegue desviar o olhar?\n\nVocê é essa pessoa.\n\nTe admiro de um jeito quieto,\nde um jeito que não precisa de palmas.\nSó precisa existir.\n\nEssa música é minha forma de dizer\nque você é especial aos meus olhos.\n\nNão precisa fazer nada.\nSó escuta e aceita esse carinho.\nÉ sincero.\"_\n\n✨ _\"Que essa canção te faça enxergar o brilho que eu vejo em você.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 73,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Se a saudade tivesse endereço, ela estaria chegando na sua casa agora, junto com essa música.* 💫\n\n🎙️ _\"{de} embalou a saudade com cuidado, colocou dentro dessa música de *{artista}* e mandou entregar pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Saudade não é tristeza.\nÉ amor que não tem onde ficar.\n\nEntão ele viaja,\nanda por aí,\nbate em portas,\npede passagem.\n\nAté que encontra uma música\n e resolve morar nela.\n\nAgora a saudade está aí,\ndentro dessa canção,\nbateu na sua porta.\n\nAbre? Ela só quer te fazer companhia.\"_\n\n🌙 _\"Que essa saudade musicada te abrace quentinho.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 74,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *O vento pode não saber, mas ele ajudou a levar essa música até você. E ela veio com um recado: alguém está pensando em você.* 🍃\n\n🎙️ _\"{de} soprou um pensamento no ar e ele viajou até virar essa canção de *{artista}* no seu ouvido, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Sabe aqueles pensamentos soltos\nque a gente nem controla?\n\nEles simplesmente aparecem.\n\nVocê apareceu assim.\nDo nada, sem aviso,\ne ficou.\n\nHoje, em vez de deixar você só no pensamento,\nresolvi colocar você numa música.\n\nAgora você está aqui, comigo,\nem cada nota,\nem cada verso.\n\nEscuta. É você que está tocando.\"_\n\n🌟 _\"Que essa canção te faça lembrar que você mora em pensamentos bons.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 75,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Se o amor fosse planta, eu regaria todo dia com essa música. Ela é meu carinho virando som.* 💗\n\n🎙️ _\"{de} pegou o regador do coração e espalhou essa música de *{artista}* como se fossem gotas de carinho pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Tem sentimentos que precisam de cuidado.\nPrecisam ser regados,\nprotegidos,\ntratados com jeito.\n\nO que sinto por você é assim.\nÉ frágil, bonito,\nprecisa de atenção.\n\nHoje resolvi regar ele com música.\nEssa canção é a água,\no sol,\no carinho que escolhi pra você.\n\nEspero que cresça bonito aí dentro.\nDo meu jeito, já cresceu.\"_\n\n🌙 _\"Que essa canção regue seu coração de coisas boas.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 76,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌷 *Tem pessoas que marcam a gente sem fazer esforço. Você marcou. E essa música é a marca que ficou.* 🌷\n\n🎙️ _\"{de} te encontrou dentro de si e não conseguiu mais te tirar. A solução foi transformar você nessa música de *{artista}*, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Você já deixou marcas em mim.\nNão são marcas de machucado,\nsão marcas de presença.\n\nUm 'você esteve aqui' no meu peito.\nUm 'você é inesquecível' na minha memória.\n\nEssa música é uma dessas marcas.\nEla me lembra de você.\nE vai te lembrar de mim também.\n\nToda vez que tocar,\nvocê vai saber.\nÉ nossa.\"_\n\n✨ _\"Que essa canção seja a marca bonita que ficou entre a gente.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 77,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Se o meu peito fosse um palco, essa música seria o show principal. E você, a plateia favorita.* 💫\n\n🎙️ _\"{de} subiu no palco do coração e cantou essa música de *{artista}* mentalmente só pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Dentro de mim tem um show.\nLuz, palco, plateia.\nSó falta você.\n\nO artista é meu coração.\nA música é essa.\n\nEla foi ensaiada mil vezes,\npensada em cada detalhe,\nescolhida com carinho.\n\nAgora só falta você assistir.\nSenta, escuta, se emociona.\nO show é só seu.\"_\n\n🌙 _\"Que essa canção seja o melhor show que você já assistiu.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 78,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Sabe aquele abraço que falta? Eu transformei ele em música. Agora aperta o play e se sente abraçado(a).* 🌸\n\n🎙️ _\"{de} sentiu sua falta, juntou os braços da saudade e te mandou esse abraço musical de *{artista}*, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Tem abraço que não é com braço.\nÉ com alma.\n\nEle aperta de longe,\nesquenta o coração,\nfaz a gente sorrir sem motivo.\n\nÉ esse que estou te dando.\nUm abraço musical,\nfeito de nota, de verso,\nde um 'estou aqui' disfarçado.\n\nRecebe e se sente apertado.\nÉ meu carinho chegando.\nÉ seu.\"_\n\n🌟 _\"Que esse abraço musical te envolva todinho(a).\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 79,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *O silêncio às vezes pesa. Então resolvi preencher ele com essa música. Espero que ela seja leve que nem um abraço.* 🍃\n\n🎙️ _\"{de} percebeu que o silêncio estava grande demais, então preencheu com essa música de *{artista}* pra te fazer companhia, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"O silêncio pode ser amigo ou inimigo.\nHoje ele estava pesado.\n\nEntão chamei a música.\nEla veio, sentou ao lado\ne encheu o espaço de sentimento.\n\nAgora o silêncio foi embora.\nFicou você, eu e essa canção.\n\nEscuta ela como se fosse uma conversa,\numa prosa gostosa\nentre amigos que se gostam.\n\nÉ o que somos?\"_\n\n🌙 _\"Que essa canção transforme qualquer silêncio em aconchego.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 80,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Tem música que a gente ouviria pra sempre. E tem gente que a gente amaria pra sempre. Você é as duas coisas.* 💗\n\n🎙️ _\"{de} escolheu essa música de *{artista}* pra eternizar o que sente por você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Música boa a gente não enjoa.\nFica no repeat, no coração,\nnas lembranças.\n\nVocê é assim.\nNão enjoo de você.\nQuero sempre por perto,\nsempre na memória,\nsempre no peito.\n\nJuntei as duas coisas: a música e você.\nAgora as duas estão juntas.\nDedico essa canção ao nosso encontro.\n\nQue ela seja eterna.\nNem que seja no meu coração.\"_\n\n✨ _\"Que essa música toque sempre que eu pensar em você.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+     {
+      "id": 81,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Sabe quando o coração pede pra falar, mas a boca se cala? Então, a música falou por ele. E foi essa.* 🌹\n\n🎙️ _\"{de} colocou o coração na ponta dos dedos e escolheu essa música de *{artista}* pra te dizer o que as palavras não conseguem, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Tem vez que o silêncio pesa.\nTem vez que ele é a única resposta.\n\nMas hoje o silêncio resolveu pedir ajuda.\nAjuda da música.\n\nEla veio suave, entrou devagar,\ncada verso uma palavra que faltava,\ncada nota um sentimento solto.\n\nAgora o silêncio foi embora.\nFicou a canção.\nEla vai falar por mim enquanto eu calo.\n\nEscuta com o peito. É sincero.\"_\n\n🌙 _\"Que essa música seja minha voz quando eu não puder falar.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 82,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Você não está sozinho(a). Tem alguém que escolheu essa música pra te lembrar disso.* 💫\n\n🎙️ _\"{de} quis te mostrar que você é importante e escolheu essa música de *{artista}* como prova, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Às vezes a gente esquece.\nEsquece o próprio valor,\na própria força,\no próprio brilho.\n\nMas tem alguém que lembra.\nQue vê o que você nem enxerga.\nQue guarda um carinho imenso por você.\n\nSou eu.\nE essa música é meu bilhete.\nUm lembrete de que você não está só.\nNunca esteve.\n\nEscuta e se sente abraçado(a).\nTem alguém aqui torcendo por você.\"_\n\n✨ _\"Que essa canção te lembre: você é muito amado(a).\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 83,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Eu poderia ter escolhido qualquer palavra, mas escolhi uma música. Porque ela diz o que dicionário nenhum explica.* 🌸\n\n🎙️ _\"{de} vasculhou dicionários, revirou livros, mas não encontrou palavra que definisse o que sente. Então escolheu essa música de *{artista}* pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Dicionário é pouco.\nPalavras são limitadas.\n\nO que sinto por você não cabe em nenhuma delas.\nÉ maior, mais gostoso,\nmais coração.\n\nEntão desisti de procurar.\nDesisti de explicar.\n\nSó senti.\nE deixei que a música falasse.\n\nEla é o verbete que faltava.\nA definição do que vai aqui dentro.\n\nAgora é sua. Guarda com carinho.\"_\n\n🌙 _\"Que essa canção seja a palavra que faltava no seu dia.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 84,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *O amor não precisa de explicação. Ele só precisa de uma trilha sonora. E essa aqui é a nossa.* 🍃\n\n🎙️ _\"{de} quis criar uma trilha sonora pros momentos bons e escolheu essa música de *{artista}* pra fazer parte dela, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Filme tem trilha sonora.\nHistória tem fundo musical.\n\nA nossa história também merece.\nPor isso escolhi essa música.\n\nEla vai tocar nos melhores momentos,\nnas lembranças boas,\nnas vezes que a gente se encontrar.\n\nToda vez que ela tocar,\nvai ser como se a gente estivesse junto.\n\nGuarda ela bem guardada.\nÉ nossa.\"_\n\n🌟 _\"Que essa trilha sonora acompanhe a gente pra sempre.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 85,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Tem gente que a gente leva na alma. Você é assim. E essa música é o endereço onde você mora dentro de mim.* 💗\n\n🎙️ _\"{de} te procurou dentro do peito e te encontrou morando lá. Então resolveu te presentear com essa música de *{artista}*, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Você tem um endereço fixo aqui.\nNão é rua, não é número.\nÉ sentimento.\n\nVocê mora no meu peito,\nnas minhas lembranças,\nnas músicas que escolho.\n\nEssa é mais uma delas.\nDedico a você, morador favorito.\n\nPode ficar à vontade.\nO aluguel é carinho.\nE você já pagou.\n\nContinue aqui. Eu gosto.\"_\n\n🌙 _\"Que essa canção seja o conforto da sua morada em mim.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 86,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌷 *Sabe aquele sentimento que não cabe no peito? Eu coloquei ele nessa música. Agora cabe. E é todo seu.* 🌷\n\n🎙️ _\"{de} sentiu o peito transbordar e a única solução foi derramar o excesso nessa música de *{artista}* pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Meu peito tem tamanho.\nÉ pequeno, apertado,\ncabe pouca coisa.\n\nMas o que sinto por você é grande.\nMuito grande.\n\nAchei que ia explodir.\nAté que resolvi colocar o excesso numa música.\n\nAgora está mais leve.\nSobra espaço.\n\nE o que sobrou, é seu.\nA canção inteira.\n\nCuida bem dela. É um pedaço de mim.\"_\n\n✨ _\"Que essa música seja o lugar onde meu sentimento por você descansa.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 87,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Se o amor fosse uma cor, seria a dessa música. Brilhante, quente, impossível de ignorar.* 💫\n\n🎙️ _\"{de} misturou sentimentos até encontrar a cor certa e pintou essa música de *{artista}* só pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"O amor tem cor?\nEu acho que sim.\n\nA minha cor favorita é a do que sinto por você.\nÉ vibrante, é quente,\né impossível de descrever.\n\nEssa música tem a mesma cor.\nFoi por isso que escolhi ela.\n\nEla é um arco-íris de sentimento,\numa paleta de carinho,\numa pintura em forma de som.\n\nOlha com os ouvidos.\nQue cores você vê?\"_\n\n🌙 _\"Que essa canção pinte seu dia com as cores do amor.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 88,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *Tem momentos que a gente quer guardar pra sempre. Esse é um deles. Essa música é a moldura.* 🍃\n\n🎙️ _\"{de} quis eternizar esse instante e escolheu essa música de *{artista}* pra ser a testemunha, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"O tempo passa rápido demais.\nOs momentos escapam,\nas memórias desbotam.\n\nMas tem coisas que a gente consegue guardar.\nMúsicas, por exemplo.\n\nEssa aqui vai ser a nossa memória.\nSempre que ela tocar,\nvocê vai lembrar desse momento.\nE eu também.\n\nVamos guardar juntos?\nFechou.\n\nEla é nossa.\"_\n\n🌟 _\"Que essa canção seja uma cápsula do tempo de carinho.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 89,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Você merece flores, versos e declarações. Mas hoje só tenho essa música. Espero que seja o suficiente.* 🌹\n\n🎙️ _\"{de} queria fazer uma declaração gigante, mas se sentiu pequeno(a). Então mandou essa música de *{artista}* como um começo, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Não sei fazer grandes declarações.\nNão sei escrever poemas.\nNão sei dizer coisa bonita.\n\nMas sei escolher música.\nE sei sentir.\n\nO que sinto por você é gigante.\nMas minha coragem é pequena.\n\nPor enquanto, fica com essa canção.\nEla é um pedaço do que eu queria dizer.\n\nUm dia eu termino.\nPor ora, aceita ela.\nÉ um começo.\"_\n\n🌙 _\"Que essa música seja o ponto de partida de tudo que quero te dizer.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 90,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Se a saudade fosse uma pessoa, ela estaria aí agora, entregando essa música na sua porta.* 💗\n\n🎙️ _\"{de} não conseguiu segurar a saudade, ela escapou e virou essa música de *{artista}* na sua direção, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"A saudade é teimosa.\nEla não pede licença,\nnão bate na porta,\nnão avisa que chegou.\n\nEla simplesmente aparece.\n\nAgora mesmo ela apareceu,\nsentou do meu lado\ne pediu: 'manda uma música pra ela(e)'.\n\nAtendi o pedido.\nAqui está.\n\nA saudade mandou um beijo.\nE eu mandei essa canção.\n\nRecebe as duas.\nElas vieram de longe.\"_\n\n✨ _\"Que essa música mate um pouquinho da saudade que a gente sente.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+     {
+      "id": 91,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Tem pessoas que a gente cruza na vida e nunca mais esquece. Você é uma delas. Guardei você nessa música.* 🌸\n\n🎙️ _\"{de} te encontrou sem querer e, sem perceber, já estava guardando você nessa música de *{artista}*, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Sabe quando algo te marca\nsem você nem perceber?\n\nFoi você.\nEntrou na minha vida de mansinho,\nse instalou no meu peito\ne resolveu ficar.\n\nAgora, toda vez que penso em você,\nessa música toca na minha cabeça.\n\nResolvi dividir ela com você.\nPra você também ter uma trilha\ndesses momentos bons.\n\nAperta o play. É nosso.\"_\n\n🌙 _\"Que essa canção seja a lembrança de um encontro que valeu a pena.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+     {
+      "id": 92,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Se existisse um abraço sonoro, seria essa música apertando você agora.* 💫\n\n🎙️ _\"{de} enrolou o carinho numa melodia e jogou nas ondas do rádio pra te alcançar, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Tem abraço que a gente dá com o corpo.\nTem abraço que a gente dá com a alma.\n\nEsse aqui é com a alma.\nEle veio de longe,\natravessou distâncias,\ne chegou até você em forma de canção.\n\nSente ele apertando devagar?\nÉ meu carinho te envolvendo.\n\nFica um pouco assim.\nDeixa o abraço durar.\nÉ de graça, mas é valioso.\"_\n\n🌙 _\"Que esse abraço musical te faça sentir menos sozinho(a).\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 93,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Você não sabe, mas mora nas músicas que eu escuto. Essa aqui é sua casa nova.* 🌹\n\n🎙️ _\"{de} percebeu que você invadiu todas as playlists e resolveu oficializar com essa música de *{artista}*, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Toda música que eu escuto,\nvocê está lá.\nNo refrão, no verso,\nnaquele trecho que aperta o peito.\n\nVocê se espalhou pelas minhas canções\ne agora não sai mais.\n\nEssa aqui é a sua favorita.\nPelo menos é a que mais me lembra você.\n\nEscuta ela sabendo disso.\nÉ sua casa agora.\nMore nela.\"_\n\n✨ _\"Que essa canção seja seu endereço musical.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 94,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *O vento não sabe, mas ele trouxe essa música pra você. E junto com ela, um \"estou com saudade\" bem grande.* 🍃\n\n🎙️ _\"{de} soprou um beijo no ar e ele viajou até virar essa música de *{artista}* no seu coração, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Sabe aquele vento que bate na janela?\nNão é vento não.\nSou eu.\n\nMandei um beijo disfarçado.\nEle veio leve, quase invisível,\nmas chegou.\n\nJunto com ele, uma música.\nPra você não esquecer que tem alguém\nque pensa em você o tempo todo.\n\nSente o vento?\nSente a música?\nSente o beijo?\n\nSou eu.\"\n_\n🌙 _\"Que esse vento musical te beije onde eu não posso.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 95,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Se o meu peito fosse um rádio, você seria a única estação que eu sintonizaria. Essa música é a prova.* 💗\n\n🎙️ _\"{de} girou o botão do coração e a única frequência que pegou foi essa música de *{artista}* pensando em você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Meu coração tem várias estações.\nTem estação triste, estação alegre,\nestação de saudade.\n\nMas a única que eu sintonizo\né a estação do seu nome.\n\nEla toca essa música.\nToca sempre, o dia inteiro,\nsem parar.\n\nHoje resolvi compartilhar a sintonia.\nLiga seu coração na minha frequência.\nA estação é nossa.\"_\n\n🌟 _\"Que essa sintonia musical nunca perca o sinal.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 96,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌷 *Tem coisa que dinheiro não compra. Um sorriso seu, por exemplo. E essa música, que é de graça mas é toda sua.* 🌷\n\n🎙️ _\"{de} resolveu te dar algo que não tem preço: essa música de *{artista}* escolhida com o coração, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Não tenho dinheiro pra te dar presentes caros.\nNão tenho joias, não tenho luxo.\n\nMas tenho uma música.\nEla não custa nada,\nmas vale tudo.\n\nPorque foi escolhida com carinho,\ncom sentimento,\ncom um 'você merece' estampado no peito.\n\nAceita ela como um presente.\nNão embrulhei, mas caprichei.\n\nÉ sincera. É sua.\"_\n\n🌙 _\"Que essa canção seja o presente mais valioso que você já ganhou.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 97,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Sabe aquele sentimento que aperta o peito e não sai? Eu transformei ele em música. Agora ele tem um lugar pra ficar.* 💫\n\n🎙️ _\"{de} sentiu o peito apertado e resolveu aliviar colocando o aperto nessa música de *{artista}* pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Tem aperto que sufoca.\nMas tem aperto que acolhe.\n\nO que sinto por você é o segundo tipo.\nAperta, mas é bom.\nAperta, mas é quentinho.\n\nHoje ele resolveu sair do peito\n e se esconder numa música.\n\nAgora ele está aí,\ndentro dessa canção,\nesperando você escutar.\n\nEscuta. Sente o aperto.\nÉ meu abraço de longe.\"_\n\n✨ _\"Que esse aperto musical te lembre que você não sai do meu peito.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 98,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Você é daquelas pessoas que merecem um capítulo à parte na história. Esse capítulo tem trilha sonora, e é essa.* 🌸\n\n🎙️ _\"{de} resolveu escrever um capítulo especial da vida e escolheu essa música de *{artista}* como trilha, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"A vida é um livro.\nCada pessoa é um capítulo.\n\nVocê não é um capítulo qualquer.\nVocê é o prefácio, o clímax,\no desfecho.\nVocê é o livro inteiro.\n\nE todo bom livro tem trilha sonora.\nA sua é essa.\n\nToda vez que ela tocar,\nvocê vai lembrar que é especial\nna história de alguém.\n\nNa minha.\"_\n\n🌙 _\"Que essa canção seja a trilha sonora da nossa história.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 99,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *Se o amor fosse um pássaro, ele estaria voando agora, levando essa música direto pro seu coração.* 🍃\n\n🎙️ _\"{de} soltou o amor que sente por você e ele voou até virar essa canção de *{artista}* no seu peito, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"O amor voa.\nEle tem asas invisíveis,\nmas voa.\n\nCruza ruas, cidades,\nestados, países.\nNão pede passaporte.\n\nO meu amor por você voou\n e chegou até aí.\nPousou nessa música\ne resolveu ficar.\n\nAgora ele mora nela.\nToda vez que tocar,\né porque ele está te visitando.\n\nRecebe ele bem. É frágil, mas é verdadeiro.\"_\n\n🌟 _\"Que esse amor alado te encontre sempre que você precisar.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 100,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Tem gente que a gente quer levar pra sempre. Você é uma delas. E essa música é a mala que eu arrumei pra te levar comigo.* 💗\n\n🎙️ _\"{de} te colocou dentro da mala do coração e trouxe essa música de *{artista}* como lembrança, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Não posso te levar comigo pra onde eu vou.\nMas posso levar essa música.\n\nEla é você em forma de som.\nÉ seu sorriso virado melodia,\nsua voz virando nota,\nseu abraço virando verso.\n\nVou guardar ela com cuidado.\nVou escutar sempre que sentir sua falta.\n\nMas hoje ela é sua.\nLeva ela com você.\nPra gente nunca ficar longe de verdade.\"_\n\n🌙 _\"Que essa canção nos leve juntos onde quer que a gente esteja.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 101,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Sabe quando algo é tão bonito que você precisa compartilhar? Foi assim com essa música. E com você.* 🌹\n\n🎙️ _\"{de} achou essa música tão linda que não conseguiu guardar só pra si. Te mandou como presente, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Tem coisas bonitas demais\npra gente guardar sozinho.\n\nElas pedem pra ser divididas.\nEssa música é uma delas.\n\nEscutei e pensei: 'isso é tão você'.\nEmoldurei com carinho\ne mandei na sua direção.\n\nAgora ela é sua.\nDivido ela com você\ncomo quem divide um segredo.\n\nGuarda ela bem guardada.\nÉ nossa.\"_\n\n✨ _\"Que essa música dividida dobre a felicidade dos dois lados.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 102,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *O silêncio às vezes fala. Mas hoje ele pediu pra música falar por ele. E ela escolheu dizer seu nome.* 💫\n\n🎙️ _\"{de} ficou em silêncio por um tempo, mas o silêncio se cansou e pediu ajuda dessa música de *{artista}* pra te alcançar, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"O silêncio é meu amigo.\nEle me acompanha sempre.\n\nMas hoje ele ficou com preguiça\nde dizer o que eu sinto.\n\nPediu pra música falar.\nEla aceitou na hora.\n\nAgora ela está aí,\ncontando tudo que o silêncio\nnão conseguiu dizer.\n\nEscuta ela.\nDepois volta pro silêncio.\nEle também quer te encontrar.\"_\n\n🌙 _\"Que o silêncio e a música dancem juntos no seu coração.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 103,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Se a felicidade tivesse um som, seria o dessa música. E se ela tivesse um endereço, seria o seu coração.* 🌸\n\n🎙️ _\"{de} quis te mandar felicidade e escolheu essa música de *{artista}* como envelope, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Todo mundo merece ser feliz.\nVocê merece mais que todo mundo.\n\nPor isso escolhi essa música.\nEla é felicidade em forma de som.\n\nCada nota é um sorriso,\ncada verso é um abraço,\ncada refrão é um 'você merece'.\n\nColoquei tudo dentro dessa canção\ne mandei pra você.\n\nEspero que ela te faça feliz.\nNem que seja por alguns minutos.\nJá valeu.\"_\n\n🌟 _\"Que essa música seja sua dose diária de felicidade.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 104,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *Tem pessoas que são como música: entram no coração sem pedir licença e não saem mais. Você é assim.* 🍃\n\n🎙️ _\"{de} tentou te tirar do peito, mas você insistiu em ficar. Então resolveu te homenagear com essa música de *{artista}*, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Você chegou sem avisar.\nNão tocou campainha,\nnão pediu licença.\n\nEntrou e sentou.\nFez cafuné no meu peito\ne resolveu ficar.\n\nAgora você mora aqui.\nTem um quarto, uma cama,\numa escrivaninha de sentimentos.\n\nEssa música é a decoração.\nPra ficar mais bonito seu cantinho.\n\nEspero que goste.\nFiz com carinho.\"_\n\n🌙 _\"Que essa canção enfeite o lugar que você escolheu pra ficar em mim.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 105,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Se a saudade fosse um rio, ele estaria desaguando agora nessa música. E você estaria nadando nela.* 💗\n\n🎙️ _\"{de} sentiu a saudade correr solta e resolveu canalizar ela nessa música de *{artista}* pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Saudade é líquida.\nEla escorre, transborda,\ninunda o peito.\n\nHoje ela correu solta,\nencheu cada cantinho\ne não tinha mais onde ir.\n\nEntão eu construí um rio pra ela.\nUm rio musical.\n\nAgora a saudade vai navegar,\npassar por esse rio\ne chegar até você.\n\nEla quer te encontrar.\nDeixa ela entrar.\nÉ mansinha.\"_\n\n✨ _\"Que esse rio musical leve toda saudade que cabe no peito.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 106,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Você merece declarações enormes, mas hoje só tenho essa música. Espero que você aceite ela como um pedaço do meu coração.* 🌹\n\n🎙️ _\"{de} queria dizer tanta coisa, mas as palavras sumiram. A única que sobrou foi essa música de *{artista}* pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Eu queria escrever um poema.\nMas as palavras fugiram.\n\nQueria fazer uma declaração.\nMas a coragem sumiu.\n\nQueria dizer 'eu gosto de você'.\nMas a voz travou.\n\nSobrou só a música.\nEla não é um poema,\nnem uma declaração,\nnem um 'eu gosto de você'.\n\nMas é o que tenho.\nÉ pouco, mas é sincero.\n\nAceita?\"_\n\n🌙 _\"Que essa música seja a declaração que eu não consegui fazer.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 107,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *O amor não tem pressa, mas quando resolve chegar, ele chega com música. Hoje ele chegou com essa.* 💫\n\n🎙️ _\"{de} sentiu o amor bater na porta e resolveu receber ele com essa música de *{artista}* pensando em você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"O amor é paciente.\nEle espera, não força,\nnão empurra.\n\nMas quando resolve chegar,\nchega com tudo.\n\nHoje ele chegou pra mim.\nBateu na porta, entrou\ne pediu: 'manda uma música pra ela(e)'.\n\nAtendi na hora.\nAqui está.\n\nO amor mandou essa canção\npra te dizer que existe.\nE que é forte.\n\nEscuta ele.\"_\n\n🌟 _\"Que esse amor musical te encontre e te faça acreditar.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 108,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Tem música que a gente escuta e pensa em alguém. Essa aqui eu pensei em você. Do começo ao fim.* 🌸\n\n🎙️ _\"{de} sentou, apertou o play e, sem querer, você apareceu em cada nota dessa música de *{artista}*, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Sabe quando a música começa\ne você já sabe que é sobre alguém?\n\nFoi assim com essa.\nOs primeiros acordes, pensei em você.\nO refrão, pensei em você.\nO final, pensei em você.\n\nA música inteira foi sua.\nSem querer, sem planejar.\n\nResolvi dividir ela com você.\nPra você saber que ocupa espaço\naté nas músicas que eu escuto.\n\nAperta o play. Tá pensando em você.\"_\n\n🌙 _\"Que essa canção te faça se sentir presente mesmo de longe.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 109,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *Se o carinho fosse vento, ele estaria soprando essa música no seu ouvido agora. Sente?* 🍃\n\n🎙️ _\"{de} juntou todo carinho que sente e soprou dentro dessa música de *{artista}* direto pra você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Carinho não se vê.\nMas se sente.\n\nEle chega devagar,\num pouco de cada vez,\nsem fazer alarde.\n\nHoje eu vesti meu carinho de música\ne mandei ele te visitar.\n\nEle está aí, bem pertinho,\npasseando no seu quarto,\nenchendo o ambiente de mim.\n\nSente ele? É aquele quentinho no peito.\nSou eu.\n\nRecebe bem.\"_\n\n✨ _\"Que esse carinho musical te acompanhe onde quer que você vá.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 110,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Você não sabe, mas toda vez que essa música toca, eu te procuro no meio da multidão. Hoje resolvi te encontrar através dela.* 💗\n\n🎙️ _\"{de} cansou de te procurar em todo lugar e resolveu te chamar com essa música de *{artista}*, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Eu te procuro no meio da gente.\nNo barulho, no silêncio,\nna correria do dia.\n\nMas você some.\nVocê some e eu fico sem chão.\n\nHoje resolvi te chamar com uma música.\nEla é meu grito, meu pedido,\nmeu 'onde você está?'\n\nSe você escutar, responde.\nNem que seja com um silêncio.\nMas me avisa que me ouviu.\n\nEstou te esperando.\"_\n\n🌙 _\"Que essa canção te encontre onde você estiver escondido(a).\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 111,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Se o amor fosse um quadro, essa música seria a moldura. E você, a obra de arte.* 🌹\n\n🎙️ _\"{de} te viu como uma obra de arte e escolheu essa música de *{artista}* como moldura, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Obra de arte precisa de moldura.\nSenão fica solta, perdida,\nsem lugar pra ficar.\n\nVocê é a obra mais bonita que conheço.\nPrecisava de uma moldura à altura.\n\nEscolhi essa música.\nEla é simples, mas elegante.\nNão rouba sua cena,\nsó realça.\n\nAgora você está emoldurado(a).\nPronto(a) pra ser admirado(a).\n\nE eu sou seu maior fã.\"_\n\n🌟 _\"Que essa moldura musical te faça brilhar ainda mais.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 112,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Tem pessoas que iluminam a gente sem fazer esforço. Você ilumina. E essa música é o reflexo dessa luz.* 💫\n\n🎙️ _\"{de} percebeu que você é luz e escolheu essa música de *{artista}* pra refletir seu brilho, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Você tem uma luz própria.\nNão precisa de holofote,\nnão precisa de palco.\n\nEla vem de dentro,\nsai pelos olhos,\nse espalha pelo sorriso.\n\nHoje resolvi pegar um pedaço dessa luz\ne colocar numa música.\n\nAgora ela está aqui,\nbrilhando em cada nota.\n\nSente o brilho? É você.\nLindo(a) como sempre.\"_\n\n🌙 _\"Que essa canção ilumine seus dias como você ilumina os meus.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 113,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Sabe quando algo te toca de um jeito que você não consegue explicar? Foi assim com essa música. E com você também.* 🌸\n\n🎙️ _\"{de} se sentiu tocado(a) por essa música de *{artista}* do mesmo jeito que se sente tocado(a) por você, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Tem toque que não é com a mão.\nÉ com a alma.\n\nEssa música toca a minha alma.\nDo mesmo jeito que você toca.\n\nÉ um toque suave, quase invisível,\nmas que mexe por dentro.\n\nResolvi juntar os dois:\na música e você.\nDois toques que me atravessam.\n\nEscuta ela sabendo disso.\nTalvez ela te toque também.\n\nE aí a gente fica igual.\nTocados.\"_\n\n✨ _\"Que esse toque musical te atravesse e fique.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 114,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *O amor não precisa de muitos adjetivos. Ele só precisa de uma música e de um coração aberto. O meu está aberto pra você.* 🍃\n\n🎙️ _\"{de} abriu o peito e deixou essa música de *{artista}* sair direto do coração pra você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Não sei descrever o que sinto.\nNão sei se é amor, paixão,\ncarinho, saudade.\n\nSei que é bom.\nSei que é gostoso.\nSei que é você.\n\nEssa música não descreve também.\nEla só sente.\nIgual eu.\n\nEscuta ela com o coração aberto.\nTalvez você sinta o mesmo.\n\nE aí não precisa de palavras.\nSó da música.\nE de nós.\"_\n\n🌙 _\"Que essa canção traduza o que nenhuma palavra consegue.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 115,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Você mora nos meus pensamentos sem pagar aluguel. E ainda ganha música de presente. Tá bem, hein?* 💗\n\n🎙️ _\"{de} resolveu mimar você com essa música de *{artista}* só porque sim, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Você ocupa espaço aqui.\nEspaço grande, espaçoso,\nde primeira qualidade.\n\nNão cobro aluguel não.\nPode ficar à vontade.\n\nMas de vez em quando, eu gosto de mimar.\nMimo com música.\nEssa é de hoje.\n\nEla é um agrado, um carinho,\num 'você é especial' embrulhado.\n\nAceita e continua morando aqui.\nO aluguel é só sua presença.\nJá tá pago.\"_\n\n🌟 _\"Que esse mimo musical te faça sorrir à toa.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 116,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌹 *Se o meu peito fosse um jardim, você seria a flor mais bonita. E essa música, o perfume.* 🌹\n\n🎙️ _\"{de} te plantou no coração e regou com essa música de *{artista}* pra você florescer, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💌 De: *{de}* 💐 Para: *{para}*\n\n📜 _\"Meu peito é um jardim.\nTem flores de todo tipo.\nTem margarida, tem rosa,\ntem girassol.\n\nMas a flor mais bonita é você.\nVocê desabrochou aqui\ne deixou tudo mais colorido.\n\nEssa música é o perfume.\nO cheiro que ficou.\n\nSempre que ela tocar,\nvocê vai sentir o cheiro\nde como é bom ter você aqui.\n\nPerfume bom dura.\nEspero que esse também.\"_\n\n🌙 _\"Que esse perfume musical te faça lembrar do jardim que você é.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 117,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💫 *Sabe aquele sorriso que aparece sozinho quando a gente escuta uma música boa? Eu quero que você sorria assim agora.* 💫\n\n🎙️ _\"{de} escolheu essa música de *{artista}* com um único objetivo: te arrancar um sorriso, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"Sorriso é remédio.\nCura tristeza, cura solidão,\ncura até saudade.\n\nVocê sorrindo,\njá tá melhor.\n\nPor isso escolhi essa música.\nEla é sorriso em forma de som.\n\nSe você sorrir,\nseu sorriso vai encontrar o meu\ne a gente vai ficar sorrindo junto.\n\nMesmo de longe.\nValeu a pena.\"_\n\n✨ _\"Que essa canção seja o motivo do seu próximo sorriso.\"_ ✨\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 118,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🌸 *Você não precisa fazer nada pra ser especial. Você já é. E essa música é só um lembrete disso.* 🌸\n\n🎙️ _\"{de} quis te lembrar do seu valor e escolheu essa música de *{artista}* como bilhete, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💝 De: *{de}* 💕 Para: *{para}*\n\n📜 _\"Às vezes a gente esquece.\nEsquece o próprio valor,\na própria beleza,\no próprio brilho.\n\nMas tem alguém que lembra.\nQue guarda na memória\ntudo que você tem de bom.\n\nSou eu.\nE esse é meu lembrete.\nEssa música.\n\nEla é um espelho.\nOlha ela e se enxerga.\nDo jeito que eu te vejo.\n\nLindo(a). Especial.\nInesquecível.\"_\n\n🌙 _\"Que essa canção te lembre diariamente do quanto você é incrível.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 119,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n🍃 *O amor não precisa de explicação. Ele só precisa de uma trilha. E essa aqui é a nossa.* 🍃\n\n🎙️ _\"{de} escolheu essa música de *{artista}* pra ser a trilha sonora do que a gente vive, {para}...\"_\n\n🎵 *{musica}* — *{artista}*\n💌 De: *{de}* 💖 Para: *{para}*\n\n📜 _\"Toda história tem trilha.\nA nossa também.\n\nEscolhi essa.\nEla tem a nossa cara:\num pouco de alegria, um pouco de saudade,\num pouco de tudo.\n\nToda vez que ela tocar,\nlembra que a gente existe.\nQue a gente se encontrou.\nQue a gente faz sentido.\n\nMesmo de longe.\nMesmo sem explicação.\n\nAperta o play.\nA trilha é nossa.\"_\n\n🌟 _\"Que essa trilha sonora acompanhe todos os capítulos da nossa história.\"_ 🌟\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    },
+    {
+      "id": 120,
+      "template": "ıllıllı🌟✨💃🎙️ *R͙ád͙i͙o͙ D͙a͙m͙a͙s͙ D͙a͙ N͙i͙g͙h͙t͙* 🎧💃🌌✨🌟 ıllıllı\n\n💗 *Se a distância fosse um oceano, essa música seria o barco que eu construí pra chegar até você.* 💗\n\n🎙️ _\"{de} construiu um barco de notas e velas de verso com essa música de *{artista}* pra navegar até você, {para}...\"_\n\n🎶 *{musica}* — *{artista}*\n💖 De: *{de}* 💗 Para: *{para}*\n\n📜 _\"A distância é grande.\nTem horas que parece oceano,\nsem fim, sem ponte,\nsem margem.\n\nMas eu não desisti.\nConstruí um barco.\nUm barco musical.\n\nEle é feito de nota,\nveleja ao vento do verso\ne navega no mar do rádio.\n\nEle vai chegar até você.\nPode demorar, mas chega.\n\nQuando ele chegar, sobe.\nA gente navega junto.\n\nMesmo de longe.\"_\n\n🌙 _\"Que esse barco musical encurte qualquer oceano entre a gente.\"_ 🌙\n\n© ℜ𝔞́𝔡𝔦𝔬 𝔇𝔞𝔪𝔞𝔰 𝔡𝔞 𝔑𝔦𝔤𝔥𝔱"
+    }
+    
   ]
 }
